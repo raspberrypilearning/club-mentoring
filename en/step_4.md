@@ -38,26 +38,27 @@ title: Celebrate creator success
 It is important to celebrate creators’ achievements and contributions to the Code Club. For example, recognise the progress they make with a project or the support they offer another creator. Where possible, try to focus on the effort and work rather than the outcome.
 
 As well as mentors providing feedback directly to individual creators, you can create moments where the whole Code Club recognises and celebrates each other’s successes. 
---- /collapse ---
-  
-  
-Showcasing
 
-A “show and tell”, where young people share what they are working on at the end of a session, is a great way to develop their presentation and public speaking skills.
-There are a variety of ways to do this. Projects can be presented on a screen, young people can gather around a creator’s laptop or a projecter can be used.
+A “show and tell”, where young people share what they are working on at the end of a session, is a great way to develop their presentation and public speaking skills. There are a variety of ways to do this: 
+- projects can be presented on a screen
+- young people can gather around a creator’s laptop
+- a projecter can be used.
+  
+--- /collapse ---
+
 
 ![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)
 
 --- task ---
 
-Asking Ninjas to showcase their projects shows that you recognise the effort they have made and that you believe that they have something of value to share with others. 
+Asking creators to showcase their projects shows that you recognise the effort they have made and that you believe that they have something of value to share with others. 
 
 --- /task ---
 
 
 --- task ---
 
-Encourage the Ninjas to listen and clap after another Ninja has shared a project. This helps ensure that the presenter has a positive experience.
+Encourage the group to listen and clap after a creator has shared a project. This helps ensure that the presenter has a positive experience.
 
 --- /task ---
 

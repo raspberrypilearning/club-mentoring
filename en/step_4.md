@@ -1,3 +1,28 @@
+## Helping creators of different ages and abilities
+
+### Group creators together
+If creators sit together based on experience or age, they will be more able to support each other.
+If creators work in pairs on a project, for example where you are sharing a device between two creators, you can use pair programming. Learn more at: rpf.io/pair-programming
+
+### Younger learners
+As a general rule, younger children tend to have a shorter attention span.
+
+If your club has younger creators, try breaking up the coding session into shorter activity slots, changing the activity, moving people around, or including a break.
+
+### Focus on creator interests
+You will create a more meaningful learning experience if you allow creators to work on something they are interested in.
+
+### Celebrate creator success
+It is important to celebrate creators’ achievements and contributions to the Code Club. For example, recognise the progress they make with a project or the support they offer another creator. Where possible, try to focus on the effort and work rather than the outcome.
+
+As well as mentors providing feedback directly to individual creators, you can create moments where the whole Code Club recognises and celebrates each other’s successes. 
+
+#### Showcasing
+
+A “show and tell”, where young people share what they are working on at the end of a session, is a great way to develop their presentation and public speaking skills.
+There are a variety of ways to do this. Projects can be presented on a screen, young people can gather around a creator’s laptop or a projecter can be used.
+
+
 ## Culturally responsive mentoring
 
 <div style="display: flex; flex-wrap: wrap">

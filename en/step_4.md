@@ -29,7 +29,26 @@ You will create a more meaningful learning experience if you allow creators to w
 
 --- /collapse ---
   
+
+--- collapse ---
   
+---
+title: Reflecting on learnings
+--- 
+Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [new project paths](https://projects.raspberrypi.org/en/paths).
+
+--- task ---
+
+Encourage reflection by asking questions of young people, such as:
++ What does this piece of code do?
++ How did you do that?
++ What would happen if you tried … instead? 
++ What would you do differently if you were starting the project again?
+
+--- /task ---
+
+--- /collapse ---
+
 --- collapse ---
   
 ---
@@ -67,19 +86,8 @@ End of year project showcases or larger showcases like [Coolest Projects](https:
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Coolest Projects**  is a celebration of young digital creators and the amazing things they make with technology. There is an annual online showcase open to young people around the world, and in-person Coolest Projects events in several countries. All levels of coding projects are accepted from beginners to more advanced projects.</p>
 
-## Reflecting on learnings
-Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [new project paths](https://projects.raspberrypi.org/en/paths).
 
 
---- task ---
-
-Encourage reflection by asking questions of young people, such as:
-+ What does this piece of code do?
-+ How did you do that?
-+ What would happen if you tried … instead? 
-+ What would you do differently if you were starting the project again?
-
---- /task ---
 
 ## Culturally responsive mentoring
 

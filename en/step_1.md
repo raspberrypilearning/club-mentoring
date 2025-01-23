@@ -53,7 +53,7 @@ Within a club there are usually the young people attending (creators), those vol
 ---
 title: Creators (young people)
 ---
-The young people who attend Code Clubs. Creators generally are between the age of seven and seventeen. The only requirements for creators are enthusiasm, an eagerness to learn, and a sprinkle of creativity.
+The young people who attend Code Clubs. Creators generally are between the age of nine and sixteen. The only requirements for creators are enthusiasm, an eagerness to learn, and a sprinkle of creativity.
 
 --- /collapse ---
 

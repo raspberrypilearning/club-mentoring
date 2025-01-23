@@ -9,7 +9,7 @@ Code Club is a global community of free coding clubs where young people develop 
 This course will primarily focus on training volunteers who mentor young learners through providing guidance or technical support.
 
 Once completed, you should:
-+ Understand the different roles volunteers have in a Code Club
++ Understand the different tasks mentors in a Code Club do
 + Recognise different mentoring styles used at a Code Club
 + Have learnt a little about the most popular coding languages used in clubs
 + Know what resources are available to support mentors

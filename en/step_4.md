@@ -1,8 +1,7 @@
 ## Helping creators of different ages and abilities
 
 ### Group creators together
-If creators sit together based on experience or age, they will be more able to support each other.
-If creators work in pairs on a project, for example where you are sharing a device between two creators, you can use pair programming. Learn more at: rpf.io/pair-programming
+If creators sit together based on experience or age, they will be more able to support each other. If creators work in pairs on a project, for example where you are sharing a device between two creators, you can use [pair programming](rpf.io/pair-programming). 
 
 ### Younger learners
 As a general rule, younger children tend to have a shorter attention span.

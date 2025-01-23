@@ -161,14 +161,14 @@ Learn more about approaches you can use in your Dojo to make it more accessible 
 <span style="color: #0faeb0">It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.</p>
 
 Some adjustments you might make include:
-• Rearranging tables and chairs to create an accessible space.
-• Designating a quiet corner.
-• Providing a written or visual schedule of the session at the beginning.
-• Providing larger screens for anyone with visual impairments.
-• Printing instructions in a large, easy-to-read font.
-• Asking mentors to communicate slowly and clearly when they explain something.
-• Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
-• Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
++ Rearranging tables and chairs to create an accessible space.
++ Designating a quiet corner.
++ Providing a written or visual schedule of the session at the beginning.
++ Providing larger screens for anyone with visual impairments.
++ Printing instructions in a large, easy-to-read font.
++ Asking mentors to communicate slowly and clearly when they explain something.
++ Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
++ Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">If there are a number of creators with disabilities, you could appoint a mentor as an accessibility officer to oversee these adjustments.</p>

@@ -63,10 +63,9 @@ A “show and tell”, where young people share what they are working on at the 
 - young people can gather around a creator’s laptop
 - a projecter can be used.
   
---- /collapse ---
 
 
-![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)
+
 
 --- task ---
 
@@ -86,7 +85,9 @@ End of year project showcases or larger showcases like [Coolest Projects](https:
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Coolest Projects**  is a celebration of young digital creators and the amazing things they make with technology. There is an annual online showcase open to young people around the world, and in-person Coolest Projects events in several countries. All levels of coding projects are accepted from beginners to more advanced projects.</p>
 
+--- /collapse ---
 
+![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)
 
 
 ## Culturally responsive mentoring
@@ -133,28 +134,46 @@ Culturally relevant pedagogy promotes the development of creators’ critical co
 --- /task ---
 
 ## Accessibility practices for Dojos
-At your Dojo, you will have lots of different participants, including participants with disabilities and/or additional needs. You can help make a Dojo more accessible through listening to your participants, making reasonable adjustments, and deciding what works best, so that they can have the best possible CoderDojo experience.
+Code Club welcomes creators and mentors of all ages, backgrounds, and abilities. At your club, there might be people with disabilities and accessibility requirements.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Dojo — not just those with a disability.</p>
+<span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Code Club — not just those with a disability.</p>
   
+To make your Code Club more accessible:
+--- task --- 
+  
+**Listen to creators, parents, and guardians**: See how you can best support your creators. Make sure your contact information is up-to-date and you regularly check your email inbox.
+
+--- /task ---
 
 --- task --- 
   
-Keep channels of communication open. Actively listen to members of your Dojo, and discuss together how you can best support their participation.
+**Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
 
 --- /task ---
 
+--- task --- 
+**Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. It’s important for other members of your club to use inclusive language too.
 Learn more about approaches you can use in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
-  
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.</p>
+
+Some adjustments you might make include:
+• Rearranging tables and chairs to create an accessible space.
+• Designating a quiet corner.
+• Providing a written or visual schedule of the session at the beginning.
+• Providing larger screens for anyone with visual impairments.
+• Printing instructions in a large, easy-to-read font.
+• Asking mentors to communicate slowly and clearly when they explain something.
+• Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
+• Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">If there are a number of creators with disabilities, you could appoint a mentor as an accessibility officer to oversee these adjustments.</p>
+
 And remember, not all disabilities or additional needs are visible.
 
-
-
---- task ---
-**Review** our [accessibility guide](https://help.coderdojo.com/cdkb/s/article/CoderDojo-Accessibility-Guide){:target="_blank"}.
-
-
---- /task ---
 
 --- save ---

@@ -11,7 +11,7 @@ This course will primarily focus on training volunteers who mentor young learner
 Once completed, you should:
 + Understand the different roles volunteers have in a Code Club
 + Recognise different mentoring styles used at a Code Club
-+ Have learnt a little about the most popular coding languages used in Dojos
++ Have learnt a little about the most popular coding languages used in clubs
 + Know what resources are available to support mentors
 
 ## Code Club in action
@@ -23,7 +23,7 @@ Code Clubs run in a variety of different spaces and contexts. Clubs are collabor
 --- task ---
 
 **Watch** a Code Club in action:
-<iframe width="600" height="337" src="https://www.youtube.com/embed/Gioq1LkZ4a4" title="A Dojo in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="337" src="https://www.youtube.com/embed/Gioq1LkZ4a4" title="A Code Club in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- /task ---
 
@@ -46,7 +46,7 @@ People have told us they volunteer with Code Club for a variety of reasons. Thes
 
 --- /task ---
 ## Who is involved in a Code Club
-Within a Dojo there are usually the children attending (Ninjas), parents of those attending, and those volunteering their time to support the club. 
+Within a club there are usually the young people attending (creators), those volunteering their time to support the club, and in community-based settings parents and guardians of younger creators.
 
 --- collapse ---
 

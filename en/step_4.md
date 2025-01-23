@@ -40,10 +40,7 @@ Encourage the Ninjas to listen and clap after another Ninja has shared a project
 End of year project showcases or larger showcases like [Coolest Projects](https://online.coolestprojects.org/) can also be very rewarding for mentors, as you get to see how your support has helped creators progress and learn.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Coolest Projects**  is a celebration of young digital creators and the amazing things they make with technology. There is an annual online showcase open to young people around the world, and in-person Coolest Projects events in several countries.
-
-Creators decide the project topics. For example, they could work on solving a problem in their community, or they could make something purely for fun. Participants can use projects they make in Code Club; they do not need to start something new.
-</p>
+<span style="color: #0faeb0">**Coolest Projects**  is a celebration of young digital creators and the amazing things they make with technology. There is an annual online showcase open to young people around the world, and in-person Coolest Projects events in several countries. All levels of coding projects are accepted from beginners to more advanced projects.</p>
 
 ## Reflecting on learnings
 Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [new project paths](https://projects.raspberrypi.org/en/paths).

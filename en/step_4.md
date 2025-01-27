@@ -104,25 +104,28 @@ Our learning materials are designed to be inclusive. Care should be taken when u
 
 --- task ---
 
-Promotional materials for your Dojo, learning materials, and mentoring approaches should promote *equity* and ensure that learners can see themselves represented through computing.
+The materials you use should present computing as an activity and career that is open to everyone.
 
 --- /task ---
 
+--- task ---
+Consider the language and imagery you use when introducing topics.
+--- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Equity** refers to fair and just practices and policies that ensure all people thrive. Equity acknowledges and addresses inequalities that advantage some and disadvantage others.</p>
-  
-Culturally responsive pedagogy emphasises the importance of including and valuing all creators’ knowledge, ways of learning, vernacular culture and heritage.
+--- task ---
+Be sure to avoid historical stereotypes related to computing.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Vernacular culture** is the cultural forms made and organised by ordinary, often indigenous people, as distinct from the high culture of an elite.</p>
+--- /task ---
+
   
-Culturally relevant pedagogy promotes the development of creators’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. It emphasises opportunities to address issues that are important to Ninja's and their communities.
+It’s important that creators can make projects that incorporate their knowledge, culture, and heritage.
+  
+Culturally relevant pedagogy promotes the development of creators’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. It emphasises opportunities to address issues that are important to creator's and their communities. 
 
   
 ### Culturally responsive mentoring practices include:
 + Drawing on young peoples’ cultural knowledge and experiences to inform their learning 
-+ Providing opportunities for Ninja's to choose personally meaningful projects and to express their own cultural identities 
++ Providing opportunities for creator's to choose personally meaningful projects and to express their own cultural identities 
 + Exploring issues of social justice and bias
 + Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks
 + Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
@@ -136,7 +139,7 @@ Culturally relevant pedagogy promotes the development of creators’ critical co
 
 --- /task ---
 
-## Accessibility practices for Dojos
+## Accessibility practices for Code Clubs
 Code Club welcomes creators and mentors of all ages, backgrounds, and abilities. At your club, there might be people with disabilities and accessibility requirements.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -159,7 +162,7 @@ To make your Code Club more accessible:
 --- task --- 
 
 **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. It’s important for other members of your club to use inclusive language too.
-Learn more about approaches you can use in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
+Learn more about approaches you can use in your club to make it more accessible for participants with disabilities and/or additional needs in our guide. 
 
 --- /task ---
 

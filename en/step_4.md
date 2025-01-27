@@ -157,6 +157,7 @@ To make your Code Club more accessible:
 --- /task ---
 
 --- task --- 
+
 **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. It’s important for other members of your club to use inclusive language too.
 Learn more about approaches you can use in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
 

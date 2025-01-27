@@ -47,6 +47,7 @@ Encourage reflection by asking questions of young people, such as:
 
 --- /task ---
 
+
 --- /collapse ---
 
 --- collapse ---
@@ -71,7 +72,9 @@ A “show and tell”, where young people share what they are working on at the 
 
 Asking creators to showcase their projects shows that you recognise the effort they have made and that you believe that they have something of value to share with others. 
 
+
 --- /task ---
+
 
 
 --- task ---
@@ -140,6 +143,7 @@ Code Club welcomes creators and mentors of all ages, backgrounds, and abilities.
 <span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Code Club — not just those with a disability.</p>
   
 To make your Code Club more accessible:
+
 --- task --- 
   
 **Listen to creators, parents, and guardians**: See how you can best support your creators. Make sure your contact information is up-to-date and you regularly check your email inbox.
@@ -155,6 +159,7 @@ To make your Code Club more accessible:
 --- task --- 
 **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. It’s important for other members of your club to use inclusive language too.
 Learn more about approaches you can use in your Dojo to make it more accessible for participants with disabilities and/or additional needs in our guide. 
+
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">

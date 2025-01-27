@@ -35,7 +35,7 @@ You will create a more meaningful learning experience if you allow creators to w
 ---
 title: Reflecting on learnings
 --- 
-Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [new project paths](https://projects.raspberrypi.org/en/paths).
+Encouraging learners to revisit the important learnings from the project. This solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [new project paths](https://projects.raspberrypi.org/en/paths).
 
 --- task ---
 

@@ -38,9 +38,7 @@ People have told us they volunteer with Code Club for a variety of reasons. Thes
 
 --- task ---
 
-**Read** the blog.
-
-[Read what motivated other mentors](https://codeclub.org/2025/01/09/passion-purpose-play-why-do-volunteers-run-code-clubs) involved in Code Club.
+**Read** [what motivated other mentors](https://codeclub.org/2025/01/09/passion-purpose-play-why-do-volunteers-run-code-clubs) to get involved in Code Club.
 
  **Write down** why you are interested in volunteering at a Code Club.
 

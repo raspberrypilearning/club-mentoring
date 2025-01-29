@@ -22,7 +22,7 @@ Code Clubs run in a variety of different spaces and contexts. Clubs are collabor
 
 --- task ---
 
-**Watch** a Code Club in action:
+**Watch** some Code Clubs in action:
 <iframe width="600" height="337" src="https://www.youtube.com/embed/Gioq1LkZ4a4" title="A Code Club in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- /task ---

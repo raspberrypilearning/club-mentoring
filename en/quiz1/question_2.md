@@ -5,7 +5,7 @@
 legend: Question 2 of 3
 ---
 
-An older Ninja asks you during a session *“Can I try something a bit harder? I have got the hang of this now.”* How do you respond?
+An older creator asks you during a session *“Can I try something a bit harder? I have got the hang of this now.”* How do you respond?
 
 
 --- choices ---
@@ -14,9 +14,9 @@ An older Ninja asks you during a session *“Can I try something a bit harder? I
 - (x) "Sure, we can look for some content that builds on this. Is there anything you really want to try to do?"
 
   --- feedback ---
-When appropriate, encourage Ninjas to stretch themselves by giving them a new target to reach for. Asking for their suggestions also makes sure that it continues to be relevant to their interests.
+When appropriate, encourage creators to stretch themselves by giving them a new target to reach for. Asking for their suggestions also makes sure that it continues to be relevant to their interests.
 
-In addition, you could encourage them to share what they've learned with the wider group. This helps confirm they understand the concepts and it develops the Ninja's presentation skills. It also helps the wider group learn more collaboratively.
+In addition, you could encourage them to share what they've learned with the wider group. This helps confirm they understand the concepts and it develops the creator's presentation skills. It also helps the wider group learn more collaboratively.
 
 
   --- /feedback ---
@@ -41,7 +41,7 @@ Take the young person's interests and skill level into account when moving on to
 
 
   --- feedback ---
-Young people should be encouraged to share what they've learned with the wider group.  This helps confirm they understand the concepts and it develops the Ninja's presentation skills. It also helps the wider group learn more collaboratively.
+Young people should be encouraged to share what they've learned with the wider group.  This helps confirm they understand the concepts and it develops the creator's presentation skills. It also helps the wider group learn more collaboratively.
   --- /feedback ---
 
 --- /choices ---

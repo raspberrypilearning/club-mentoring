@@ -5,7 +5,7 @@
 legend: Question 3 of 3
 ---
 
-A young child who is new to the Dojo says *"I can’t think of a project idea."* How do you respond?
+A young child who is new to your Code Club says *"I can’t think of a project idea."* How do you respond?
 
 --- choices ---
 
@@ -13,7 +13,7 @@ A young child who is new to the Dojo says *"I can’t think of a project idea."*
 
 
   --- feedback ---
-Avoid giving a Ninja your own ideas. It might not be something they are interested in or relevant to their experiences. Encourage them to think for themselves using prompting questions.
+Avoid giving a creator your own ideas. It might not be something they are interested in or relevant to their experiences. Encourage them to think for themselves using prompting questions.
 
   --- /feedback ---
 
@@ -21,7 +21,7 @@ Avoid giving a Ninja your own ideas. It might not be something they are interest
 
 
   --- feedback ---
-Avoid making assumptions about what a young person is interested in based on their gender, appearance or other traits. It’s important to encourage Ninja's own ideas. You may need to act as a catalyst to help draw those ideas out. You can suggest broad topics like "Food" or "Activities" and let them brainstorm topics related to things they are interested in.
+Avoid making assumptions about what a young person is interested in based on their gender, appearance or other traits. It’s important to encourage creator's own ideas. You may need to act as a catalyst to help draw those ideas out. You can suggest broad topics like "Food" or "Activities" and let them brainstorm topics related to things they are interested in.
 
   --- /feedback ---
 
@@ -29,11 +29,11 @@ Avoid making assumptions about what a young person is interested in based on the
 
 
   --- feedback ---
-Avoid encouraging young people to passively play video games in the Dojo. The Dojo is a space for creating. Instead, ask the young person questions to draw out what kind of project they could make.
+Avoid encouraging young people to passively play video games in Code Club. The club is a space for creating. Instead, ask the young person questions to draw out what kind of project they could make.
 
 --- /feedback ---
 
-- (x) "What kind of things would you like to make? We can look through our Project's website and see what you might like to create."
+- (x) "What kind of things would you like to make? We can look through the Code Club Project's website and see what you might like to create."
 
 
   --- feedback ---

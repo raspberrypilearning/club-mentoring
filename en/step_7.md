@@ -1,10 +1,10 @@
-## Common programming languages in Dojos
+## Common programming languages in Code Clubs
 
-The most commonly used programming languages used in Dojos are Scratch, HTML and CSS, and Python. Mentors are not expected to know these languages when they start at a Dojo. However, learning a little about each will help develop your knowledge and confidence in a Dojo setting. 
+The most commonly used programming languages used in Code Club are Scratch, HTML and CSS, and Python. Mentors are not expected to know these languages when they start at a club. However, learning a little about each will help develop your knowledge and confidence in a club setting. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-  <span style="color: #0faeb0">**Remember:** You don't need to be an experienced coder to mentor at a Dojo.</p>
+  <span style="color: #0faeb0">**Remember:** You don't need to be an experienced coder to mentor at a Code Club.</p>
 
 
 ## Scratch
@@ -28,7 +28,7 @@ Young people can create digital stories, games, and animations in Scratch.
   
 --- task ---
   
-**[Try this introductory level project](https://projects.raspberrypi.org/en/projects/space-talk)** to get an idea of what young people can create with Scratch. Create a space scene with characters that ‘emote’ to share their thoughts or feelings.
+**[Try this introductory level project](https://projects.raspberrypi.org/en/projects/space-talk)** to get an idea of what creators can make with Scratch. Create a space scene with characters that ‘emote’ to share their thoughts or feelings.
   
 --- /task ---
 
@@ -43,7 +43,7 @@ ________________________________________
 ## HTML and CSS
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**HTML and CSS** are used to structure and style webpages. They are the building blocks of every webpage on the internet. </p> 
-Suitable for children who have some experience typing, these languages can provide a good, visual introduction to web development for those who have the patience for a little problem solving.
+Suitable for creators who have some experience typing, these languages can provide a good, visual introduction to web development for those who have the patience for a little problem solving.
 
 **What can you make with it?**
 Young people can make and style websites with multiple webpages.

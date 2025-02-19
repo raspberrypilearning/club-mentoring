@@ -7,7 +7,9 @@ Code Clubs are hardware and software agnostic. That means that creators and ment
 One way we support clubs is by providing  ice-breaker activities, unplugged resources, guided projects and an online Code Editor tool for free to use in your Code Club.  
   
 ## Icebreakers and unplugged activities
-Icebreakers are a great way to introduce new creators to other club members, encourage communication, and create a sense of belonging. We recommend running an icebreaker activity at the start of a session when you have new creators join. Offline or unplugged activities take place away from a computer and model key concepts (e.g. selection, variables, algorithms) in different ways. These short games are fantastic ways to help creators feel relaxed, and can also help young people learn coding concepts and terminology in a fun, informal way.
+Icebreakers are a great way to introduce new creators to other club members, encourage communication, and create a sense of belonging. We recommend running an icebreaker activity at the start of a session when you have new creators join. 
+
+Offline or unplugged activities take place away from a computer and model key concepts (e.g. selection, variables, algorithms) in different ways. These short games are fantastic ways to help creators feel relaxed, and can also help young people learn coding concepts and terminology in a fun, informal way.
 
 --- task ---
 Check out some example [icebreaker and unplugged activities](https://codeclub.org/en/resources/activities){:target="_blank"}.
@@ -26,13 +28,13 @@ These projects are created by experienced educators and tested extensively so th
 Familiarise yourself with the projects creators are working on so you are better able to support them. 
 --- /task ---
 
-### [Improved project paths](https://projects.raspberrypi.org/en/paths){:target="_blank"}
+### [Project paths](https://projects.raspberrypi.org/en/paths){:target="_blank"}
 
 Some of our educational projects are in a path format to better support creators who want to learn coding and gradually develop independence. 
 
 --- collapse ---
 ---
-title: New path structure
+title: Path structure
 ---
 
 Each path is made up of six projects, of three different types, in a 3-2-1 structure:
@@ -46,7 +48,7 @@ Each path is made up of six projects, of three different types, in a 3-2-1 struc
 
 --- /collapse ---
 
-### New project features
+### Project path features
 
 We’ve also introduced some new features to add interactivity, choice, and authenticity to each project in a path:
 

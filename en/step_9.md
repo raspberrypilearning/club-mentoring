@@ -1,6 +1,6 @@
 ## Resources for mentors
 
-+ [Code of Behaviour PDF]([https://help.coderdojo.com/cdkb/s/article/Code-of-Behaviour-volunteers](https://assets.ctfassets.net/zsyyd4yzh6xx/5DU80tjidPoa6L0Tlq6uiY/4c02613c80e81aa276c5d8ab6f2a3ad0/Code_Club_Mentor_Code_of_Behaviour_A4_V5_Digital.pdf){:target="_blank"}
++ [Code of Behaviour PDF] (https://assets.ctfassets.net/zsyyd4yzh6xx/5DU80tjidPoa6L0Tlq6uiY/4c02613c80e81aa276c5d8ab6f2a3ad0/Code_Club_Mentor_Code_of_Behaviour_A4_V5_Digital.pdf){:target="_blank"}
 + [Safeguarding E-learning module](https://projects.raspberrypi.org/en/projects/safeguarding-module/){:target="_blank"}
 + [Background checking guidance](https://help.codeclub.org/cckb/s/article/Do-club-leaders-and-mentors-need-a-background-check){:target="_blank"}
 

@@ -42,7 +42,7 @@ ________________________________________
 
 ## Web design
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**HTML and CSS** are used to structure and style webpages. They are the building blocks of every webpage on the internet. While Javascript is a coding language that makes websites interactive, like adding clickable buttons, animations, or pop-ups.</p> 
+<span style="color: #0faeb0">**HTML and CSS** are used to structure and style webpages. They are the building blocks of every webpage on the internet. **Javascript** is a coding language that makes websites interactive; like adding clickable buttons, animations, or pop-ups.</p> 
 Suitable for creators who have some experience typing, these languages can provide a good, visual introduction to web development for those who have the patience for a little problem solving.
 
 **What can you make with it?**

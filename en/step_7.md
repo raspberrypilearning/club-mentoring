@@ -46,7 +46,7 @@ ________________________________________
 Suitable for creators who have some experience typing, these languages can provide a good, visual introduction to web development for those who have the patience for a little problem solving.
 
 **What can you make with it?**
-Young people can make and style websites with multiple webpages.
+Young people can make and style websites with multiple webpages and interactive features.
 
 --- task ---
 

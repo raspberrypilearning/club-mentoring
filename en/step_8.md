@@ -24,7 +24,7 @@ End of year project showcases or larger showcases like [Coolest Projects](https:
 <span style="color: #0faeb0">**Coolest Projects** is a creative technology showcase for young people, it includes both in-person events and an online project gallery. Coolest Projects Global is free and open to creators up to the age of 18, wherever they are in the world.</p>
 
 ## Reflecting on learnings
-Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [new project paths](https://projects.raspberrypi.org/en/paths).
+Encouraging learners to revisit the important learnings from the project solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [project paths](https://projects.raspberrypi.org/en/paths).
 
 
 --- task ---

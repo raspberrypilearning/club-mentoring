@@ -109,5 +109,21 @@ You can learn more about our paths and their features with [our facilitator guid
 </div>
 </div>
 
+## Our Code Editor
+We have created a free online text-based Code Editor to help young people aged 7 and older learn to write code. 
+
+--- collapse ---
+---
+title: Code Editor features
+---
++ It lets you run Python or HTML/CSS code straight in the browser, with no setup required.
++ It makes getting started with text-based coding easier thanks to its simple and intuitive interface.
++ If you’re logged into your Raspberry Pi Foundation account, your code in the Editor is automatically saved.
++ If you’re not logged in, your code changes persist for the session, so you can refresh or close the tab without losing your work.
++ You can download your code to your computer.
++ You can switch between dark and light mode.
++ You can enlarge or reduce the text size in input and output, which is especially useful for people with visual impairments and for educators and volunteers who want to demonstrate something to a group of learners.
+--- /collapse ---
+
 
 --- save ---

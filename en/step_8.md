@@ -1,9 +1,9 @@
-## Showcasing and celebrating success
+## Showcasing and celebrating
 It is important to celebrate creators’ achievements and contributions to the Code Club. For example, recognise the progress they make with a project or the support they offer another
 creator. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Where possible, try to focus on the effort and work rather than the outcome.</p>
+<span style="color: #0faeb0">Try to focus on the effort and work rather than the outcome.</p>
   
 As well as mentors providing feedback directly to individual creators, you can create moments where the whole Code Club recognises and celebrates each other’s successes.
 

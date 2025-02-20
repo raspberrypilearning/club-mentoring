@@ -55,12 +55,13 @@ Encourage reflection by asking questions of young people, such as:
 ---
 title: Celebrate creator success
 ---
-It is important to celebrate creators’ achievements and contributions to the Code Club. Celebrating achievements with certificates, progress charts and even showcasing projects at the end of a session or as part of an event like Coolest Projects can help show creators that you recognise the effort they have made and can motivate them to continue on their digital making journey. We will go into more detail on this in the ["Celebrate and showcase" section](https://projects.raspberrypi.org/en/projects/club-mentoring/7).
+It is important to celebrate creators’ achievements and contributions to the Code Club. 
+Celebrating achievements with certificates, progress charts and even showcasing projects at the end of a session or as part of an event like Coolest Projects can help show creators that you recognise the effort they have made and can motivate them to continue on their digital making journey. We will go into more detail on this in the "Celebrate and showcase" section later on.
 
+![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)
 
 --- /collapse ---
 
-![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)
 
 
 ## Culturally responsive mentoring

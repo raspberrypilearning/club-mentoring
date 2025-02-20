@@ -99,11 +99,14 @@ Culturally relevant pedagogy promotes the development of creators’ critical co
 title: Examples of culturally responsive mentoring practices
 ---  
 
-+ Drawing on young peoples’ cultural knowledge and experiences to inform their learning 
-+ Providing opportunities for creator's to choose personally meaningful projects and to express their own cultural identities 
-+ Exploring issues of social justice and bias
-+ Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks
++ Using young people's own culture and experiences to help them learn.
++ Letting creators pick projects that matter to them and show their cultural identity.
++ Talking about fairness, social issues, and bias.
+Using fair teaching methods, like open-ended questions and group discussions.
++ Showing different cultures in learning materials and making sure everyone can use them.
 + Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
++ Using less structured guidance approaches, such as open-ended, exploratory activities and collaborative tasks that encourage discussion
+
 
 --- /collapse ---
   

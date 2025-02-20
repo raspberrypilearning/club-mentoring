@@ -1,4 +1,4 @@
-## Celebrating and Showcasing
+## Celebrating and showcasing
 It is important to celebrate creators’ achievements and contributions to the Code Club. For example, recognise the progress they make with a project or the support they offer another
 creator. 
 

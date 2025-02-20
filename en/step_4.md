@@ -136,17 +136,6 @@ To make your Code Club more accessible:
   
 **Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
 
---- /task ---
-
---- task --- 
-
-**Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club.
-
---- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.</p>
-
 --- collapse ---
   
 ---
@@ -163,6 +152,19 @@ title: Examples of reasonable adjustments in a club
 + Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
 
 --- /collapse ---
+
+--- /task ---
+
+--- task --- 
+
+**Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.</p>
+
+
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">If there are a number of creators with disabilities, you could appoint a mentor as an accessibility officer to oversee these adjustments.</p>

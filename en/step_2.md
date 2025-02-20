@@ -18,7 +18,7 @@ Code Clubs offer so much more for young people than learning to create with code
 
   
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">There are a lot of skills volunteers can help young people learn in a Code Club beyond programming. 
+<span style="color: #0faeb0">There are a lot of skills mentors can help young people learn in a Code Club beyond programming. 
 </p>
 
 --- task ---

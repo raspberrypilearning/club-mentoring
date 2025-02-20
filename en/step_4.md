@@ -153,7 +153,12 @@ To make your Code Club more accessible:
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.</p>
 
-Some adjustments you might make include:
+--- collapse ---
+  
+---
+title: Examples of reasonable adjustments in a club
+---
+
 + Rearranging tables and chairs to create an accessible space.
 + Designating a quiet corner.
 + Providing a written or visual schedule of the session at the beginning.
@@ -162,6 +167,8 @@ Some adjustments you might make include:
 + Asking mentors to communicate slowly and clearly when they explain something.
 + Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
 + Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
+
+--- collapse ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">If there are a number of creators with disabilities, you could appoint a mentor as an accessibility officer to oversee these adjustments.</p>

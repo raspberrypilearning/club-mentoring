@@ -1,4 +1,4 @@
-## Celebrating successes
+## Celebrating and Showcasing
 It is important to celebrate creators’ achievements and contributions to the Code Club. For example, recognise the progress they make with a project or the support they offer another
 creator. 
 
@@ -31,7 +31,7 @@ The progress charts have been designed as colouring sheets which you can print t
 
 --- /collapse ---
 
-### Showcasing learning
+## Showcasing projects
 
 A “show and tell”, where young people share what they are working on at the end of a session, is a great way to develop their presentation and public speaking skills. 
 

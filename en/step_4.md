@@ -168,7 +168,7 @@ title: Examples of reasonable adjustments in a club
 + Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
 + Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
 
---- collapse ---
+--- /collapse ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">If there are a number of creators with disabilities, you could appoint a mentor as an accessibility officer to oversee these adjustments.</p>

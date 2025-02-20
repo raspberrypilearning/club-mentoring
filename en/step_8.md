@@ -36,10 +36,10 @@ End of year project showcases or larger showcases like [Coolest Projects](https:
 You can use our [editabe and printable **certificates**](https://codeclub.org/en/resources/certificates) to celebrate creators achievements. These can be used to celebrate a young person completing a project, a path of six projects or developing skills like problem-solving or understanding a specific coding concept. 
 
 Our **progress charts** are available for four project paths:
-● Introduction to Scratch
-● Introduction to web
-● Introduction to Python
-● Introduction to micro:bit
+- Introduction to Scratch
+- Introduction to web
+- Introduction to Python
+- Introduction to micro:bit
 The progress charts have been designed as colouring sheets which you can print to use in your Code Club. When coders complete a project or achievement, they can colour in the badges on their progress chart to celebrate what they have done!
 
 ## Reflecting on learnings

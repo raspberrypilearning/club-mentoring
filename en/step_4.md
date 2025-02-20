@@ -113,7 +113,7 @@ Using fair teaching methods, like open-ended questions and group discussions.
 --- task ---
 
 
-**Review** the above examples and pick two you would be interested in trying as a mentor.
+**Review** the examples of culturally responsive mentoring practices above and pick two you would be interested in trying as a mentor.
 
 
 --- /task ---

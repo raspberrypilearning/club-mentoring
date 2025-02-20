@@ -5,10 +5,6 @@
   
 At a Code Club, you will see a mix of different mentoring skills in use depending on the situation. Being able to use different mentoring skills is important.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> Remember mentoring isn’t about knowing everything. </p>
-
-It is helpful for young people to know that it’s okay not to have all the answers and that even mentors are learning too. If a creator asks you a question that you don't know the answer to, that's ok, tell them you don't know while supporting them to find the answer.
 
 --- collapse ---
 
@@ -94,7 +90,11 @@ Direct instruction can be useful when introducing a concept, a topic, or some lo
 ![A photo of a group of children watching as a mentor points at a whiteboard with Scratch elements projected onto it.](images/Mentor-pointing.jpg)
  
 --- /collapse ---
-  
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0"> Remember mentoring isn’t about knowing everything. </p>
+
+It is helpful for young people to know that it’s okay not to have all the answers and that even mentors are learning too. If a creator asks you a question that you don't know the answer to, that's ok, tell them you don't know while supporting them to find the answer.
   
 --- task ---
 

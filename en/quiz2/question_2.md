@@ -5,7 +5,7 @@
 legend: Question 2 of 3
 ---
 
-A Ninja is working on a project. She is using JavaScript and wants a hidden box to appear when the mouse hovers over it. You have used Scratch, but have no idea about JavaScript! What do you do?
+A creator is working on a project. She is using JavaScript and wants a hidden box to appear when the mouse hovers over it. You have used Scratch, but have no idea about JavaScript! What do you do?
 
 
 --- choices ---
@@ -18,20 +18,20 @@ Mentoring isn’t about knowing everything. In fact, it is helpful for young peo
 
   --- /feedback ---
 
-- ( ) Use a search engine (e.g. Google) yourself and then tell the Ninja.
+- ( ) Use a search engine (e.g. Google) yourself and then tell the creator.
 
   --- feedback ---
 
-Instead, use this as an opportunity to show the Ninja how to use a search engine to find the solution themselves. This will help them develop the skills to solve similar issues in future.
+Instead, use this as an opportunity to show the creator how to use a search engine to find the solution themselves. This will help them develop the skills to solve similar issues in future.
 
 
   --- /feedback ---
 
-- ( ) Tell the Ninja to try something else.
+- ( ) Tell the creator to try something else.
 
   --- feedback ---
 
-This can be disheartening for a Ninja who has been working through a project. Instead, you could ask the Ninja to look for a similar project on our projects website to see if it includes a similar feature that they could use to resolve their issue.
+This can be disheartening for a creator who has been working through a project. Instead, you could ask the Ninja to look for a similar project on our projects website to see if it includes a similar feature that they could use to resolve their issue.
 
 
 

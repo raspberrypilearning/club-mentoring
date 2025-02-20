@@ -93,19 +93,24 @@ It’s important that creators can make projects that incorporate their knowledg
   
 Culturally relevant pedagogy promotes the development of creators’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. It emphasises opportunities to address issues that are important to creator's and their communities. 
 
+--- collapse ---
   
-### Culturally responsive mentoring practices include:
+---
+title: Examples of culturally responsive mentoring practices
+---  
+
 + Drawing on young peoples’ cultural knowledge and experiences to inform their learning 
 + Providing opportunities for creator's to choose personally meaningful projects and to express their own cultural identities 
 + Exploring issues of social justice and bias
 + Using equitable guidance approaches, such as open-ended, inquiry-led activities and discussion-based collaborative tasks
 + Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
 
+--- /collapse ---
   
 --- task ---
 
 
-**Review** the [guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}.
+**Review** the above examples and pick two you would be interested in trying as a mentor.
 
 
 --- /task ---

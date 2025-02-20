@@ -98,6 +98,8 @@ Direct instruction can be useful when introducing a concept, a topic, or some lo
 
 --- /task ---
 
+Mentoring isn’t about knowing everything. In fact, it is helpful for young people to know it’s okay not to have all the answers and that even mentors are learning too. If a creator asks you a question that you don't know the answer to, that's ok, tell them you don't know while supporting them to find the answer.
+
 --- task ---
 
 **Look** at the examples of useful mentor characteristics. Which of them do you possess already?

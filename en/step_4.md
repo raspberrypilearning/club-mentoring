@@ -58,21 +58,6 @@ title: Celebrate creator success
 It is important to celebrate creators’ achievements and contributions to the Code Club. Celebrating achievements with certificates, progress charts and even showcasing projects at the end of a session or as part of an event like Coolest Projects can help show creators that you recognise the effort they have made and can motivate them to continue on their digital making journey. We will go into more detail on this in the ["Celebrate and showcase" section](https://projects.raspberrypi.org/en/projects/club-mentoring/7).
 
 
---- /task ---
-
-
-
---- task ---
-
-Encourage the group to listen and clap after a creator has shared a project. This helps ensure that the presenter has a positive experience.
-
---- /task ---
-
-End of year project showcases or larger showcases like [Coolest Projects](https://online.coolestprojects.org/) can also be very rewarding for mentors, as you get to see how your support has helped creators progress and learn.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Coolest Projects**  is a celebration of young digital creators and the amazing things they make with technology. There is an annual online showcase open to young people around the world, and in-person Coolest Projects events in several countries. All levels of coding projects are accepted from beginners to more advanced projects.</p>
-
 --- /collapse ---
 
 ![Examples of young people showcasing their projects. Image credit to : @yukiko_kikuchi, @SandraMaguire and @arucoderdojo](images/Showcase.png)

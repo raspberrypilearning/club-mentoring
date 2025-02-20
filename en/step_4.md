@@ -131,7 +131,7 @@ To make your Code Club more accessible:
 
 --- task --- 
 
-**Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. It’s important for other members of your club to use inclusive language too. 
+**Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club.
 
 --- /task ---
 

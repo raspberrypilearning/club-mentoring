@@ -40,6 +40,7 @@ Our **progress charts** are available for four project paths:
 - Introduction to web
 - Introduction to Python
 - Introduction to micro:bit
+
 The progress charts have been designed as colouring sheets which you can print to use in your Code Club. When coders complete a project or achievement, they can colour in the badges on their progress chart to celebrate what they have done!
 
 ## Reflecting on learnings

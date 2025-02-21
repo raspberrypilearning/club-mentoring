@@ -22,8 +22,6 @@ In a Code Club session, young people usually create a project like a game, app, 
 
 Code Clubs run in a variety of different spaces and contexts. Clubs are collaborative spaces, where chat between the creators is encouraged. 
 
-The number of mentors needed depends on the venue size and how many creators attend the sessions. We recommend a ratio of at least one adult to every ten young people, unless you are a teacher or have teachers helping at your club.
-
 --- task ---
 
 **Watch** some Code Clubs in action:
@@ -47,6 +45,8 @@ People have told us they volunteer with Code Club for a variety of reasons. Thes
 --- /task ---
 ## Who is involved in a Code Club
 Within a club there are usually the young people attending (creators), those volunteering their time to support the club, and in community-based settings parents and guardians of younger creators.
+
+The number of mentors needed depends on the venue size and how many creators attend the sessions. We recommend a ratio of at least one adult to every ten young people, unless you are a teacher or have teachers helping at your club.
 
 --- collapse ---
 
@@ -130,6 +130,15 @@ If you are interested, you can learn more about safeguarding sponsors at: [rpf.i
 --- /task ---
 
 ## Time commitment
+We recommend a **3-month minimum commitment** to mentoring at a Code Club to give you a chance to meaningfully engage with the experience. Although we hope that you enjoy mentoring at a Code Club so much that you continue for much longer.
 
+Code Clubs meet regularly, usually every week, every two weeks, or every month. Most clubs schedule their sessions so they are on the same day of the week at the same time. Sessions typically last one to three hours. If a club meets less frequently, they tend to have longer sessions, which include a break. Mentors may be asked to arrive at the venue 15 minutes in advance, and help out after for an additional 10-15 minutes at the end of a session.
 
+While all clubs are different: if you are mentoring at a club that runs:
++ weekly, expect a time commitment of 90 minutes a week
++ fortnightly, expect a commitment of two hours thirty minutes a fortnight
++ monthly, expect to commit three hours thirty minutes a month.
 
+--- task ---
+**Talk** to the club leader of your club to get a clear idea of the time commitment expected of you.
+--- /task ---

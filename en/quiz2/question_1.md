@@ -30,7 +30,7 @@ Some mentors like creating resources to use in their Code Club sessions. However
 
   --- /feedback ---
 
-- ( ) They should only use the step-by-step projects on the Code Club [Projects website](https://projects.raspberrypi.org/en){:target="_blank"}.
+- ( ) They should only use the step-by-step projects on the Code Club Projects website.
 
   --- feedback ---
 There are hundreds of free digital making projects available on our website. Some of them have been translated into 30 languages. However, while everyone is free to use these projects, you can also use other resources that suit your needs.

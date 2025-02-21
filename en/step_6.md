@@ -110,7 +110,7 @@ You can learn more about our paths and their features with [our facilitator guid
 </div>
 
 ## Our Code Editor
-We have created a free online text-based Code Editor to help young people aged 7 and older learn to write code. 
+We have created a [free online text-based Code Editor](https://editor.raspberrypi.org/en/){:target="_blank"} to help young people aged 7 and older learn to write code. 
 
 --- collapse ---
 ---

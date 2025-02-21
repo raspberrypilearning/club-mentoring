@@ -7,7 +7,8 @@ title: Younger learners
 ---
 As a general rule, younger children tend to have a shorter attention span.
 
-If your club has younger creators, try breaking up the coding session into shorter activity slots,changing the activity for example by using ice-breakers and unplugged resources, moving people around, or including a break.
+If your club has younger creators, try breaking up the coding session into shorter activity slots, changing the activity, moving people around, or including a break.
+Including [ice-breakers and unplugged activities](https://codeclub.org/en/resources/activities) alongside coding activities can be great for this age group.
 
 --- /collapse ---
 
@@ -42,7 +43,7 @@ title: Consider their level of experience
 ---
 Choosing projects suited to a creators experience level can ensure they stay engaged and develop skills progressively. Overly difficult tasks may lead to frustration, while overly simple ones can cause boredom.
 
-If they need support choosing the next thing to make try to choose projects that will encourage growth but not overwhelm them. Consider their current abilities and past experiences. Offer a few options and encourage young people to share what they think of the project while they are completing it. 
+If they need support choosing the next thing to make consider their current abilities and past experiences. Offer a few options and encourage young people to share what they think of the project while they are completing it. 
 
 If they:
 - are sitting looking at the screen, seem stuck or frustrated, check in with them to offer support or guidance.

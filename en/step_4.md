@@ -31,7 +31,7 @@ If creators work in pairs on a project, for example where you are sharing a devi
 title: Focus on creator interests
 ---
 You will create a more meaningful learning experience if you allow creators to work on something they are interested in. 
-
+If they need some help deciding what to do, let them pick from a few options to boost their motivation.
 
 --- /collapse ---
 
@@ -42,10 +42,11 @@ title: Consider their level of experience
 ---
 Choosing projects suited to a creators experience level can ensure they stay engaged and develop skills progressively. Overly difficult tasks may lead to frustration, while overly simple ones can cause boredom.
 
-If they need support choosing the next thing to make try to choose one that will challenge but not overwhelm them. Consider their current abilities and past experiences. Let them pick from a few options to boost motivation. There is no perfect or single way to do this as every creator is different. Instead encourage young people to share what they think of a project while they are completing it. 
+If they need support choosing the next thing to make try to choose projects that will encourage growth but not overwhelm them. Consider their current abilities and past experiences. Offer a few options and encourage young people to share what they think of the project while they are completing it. 
 
-If they are sitting looking at the screen or seem stuck, check in with them to offer support or guidance.
-If they complete the project very quickly, or seem bored by it, suggest ways they could add to it, or projects that will progress them further.
+If they:
+- are sitting looking at the screen, seem stuck or frustrated, check in with them to offer support or guidance.
+- complete the project very quickly, or seem bored by it, suggest ways they could add to it or projects that will progress them further.
 
 --- /collapse ---
 

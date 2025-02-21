@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
   
 
-Code Clubs offer so much more for young people than learning to create with code.  With the support of mentors, creators develop a wide range of skills. Young people learn:
+Code Clubs offer so much more for young people than learning to create with code.  With the support of mentors, **creators develop a wide range of skills**. Young people learn:
 
 + Confidence with technology
 + Communication and teamwork

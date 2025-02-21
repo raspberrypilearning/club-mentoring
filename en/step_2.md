@@ -7,10 +7,10 @@
 Code Clubs offer so much more for young people than learning to create with code.  With the support of mentors, creators develop a wide range of skills. Young people learn:
 
 + Confidence with technology
-+ Real-world applications
-+ Creativity
 + Communication and teamwork
++ Real-world applications
 + Critical thinking
++ Creativity
 + Empathy
 + Resilience
 + Presentation skills

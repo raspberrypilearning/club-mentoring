@@ -9,6 +9,12 @@ It's important that you have a great experience volunteering with Code Club. It 
 + You are performing tasks that are interesting to you
 + Ideas for adaptations that could be beneficial to mentors and the wider club are discussed and acted on 
 
+### Developing skills
+People's motivations can change and develop over time. Communicating regularly with the club leader ensures they can better support your needs and growth. When you identify a skill you want to develop, you can ask the club leader for more responsibility in that area. 
+
+--- task--- 
+**Write down** what you hope to gain from the experience. How can the activities of the club and your role as a mentor help you achieve your goals?
+--- /task--- 
 
 ### Additional training
 Our [online computing courses](https://www.raspberrypi.org/courses/learn-python) are free and have something for everyone. Learn about Python, Scratch, AI and machine learning, web development, cybersecurity, encryption, networking, computing education, and much more. All our FutureLearn courses give you full access to the learning materials for the course duration specified.

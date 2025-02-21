@@ -56,4 +56,4 @@ End of year project showcases or larger showcases like [Coolest Projects](https:
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Coolest Projects** is a creative technology showcase for young people, it includes both in-person events and an online project gallery. Coolest Projects Global is free and open to creators up to the age of 18, wherever they are in the world.</p>
 
---- /task ---
+

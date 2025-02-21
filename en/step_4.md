@@ -110,7 +110,7 @@ Be sure to avoid historical stereotypes related to computing.
   
 It’s important that creators can make projects that incorporate their knowledge, culture, and heritage.
   
-Culturally relevant pedagogy promotes the development of creators’ critical consciousness of the world and encourages them to ask questions about ethics, power, privilege, and social justice. It emphasises opportunities to address issues that are important to creator's and their communities. 
+Culturally relevant mentoring helps creators think critically about the world and ask questions about fairness, power, and social issues. It gives them chances to work on problems that matter to them and their communities.
 
 --- collapse ---
   

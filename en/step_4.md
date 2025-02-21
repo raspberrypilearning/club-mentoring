@@ -110,7 +110,7 @@ Be sure to avoid historical stereotypes related to computing.
   
 It’s important that creators can make projects that incorporate their knowledge, culture, and heritage.
   
-Culturally relevant mentoring helps creators think critically about the world and ask questions about fairness, power, and social issues. It gives them chances to work on problems that matter to them and their communities.
+Culturally responsive mentoring helps creators think critically about the world and ask questions about fairness, power, and social issues. It gives them chances to work on problems that matter to them and their communities.
 
 --- collapse ---
   

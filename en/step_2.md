@@ -28,17 +28,17 @@ Code Clubs offer so much more for young people than learning to create with code
 --- /task ---
   
 ## Group management and expectation setting
-Code Clubs aren’t formal education settings. It’s important that sessions are enjoyable and fun for all those involved. To help make sessions enjoyable for everyone involved, we encourage parents and guardians to read the example [Code Club rules](https://rpf.io/cc-rules){:target="_blank"} with their children before attending. 
+Code Clubs aren’t formal education settings. It’s important that sessions are fun for all those involved. To help make sessions enjoyable for everyone, we encourage club leaders and mentors to work with creators to agree some rules at the start of the year or term. These can then be added to our [rules poster template](https://assets.ctfassets.net/zsyyd4yzh6xx/72KiBgyhW9QDVONFjD04KB/8e9ae5a4bc0a925d2fa1d8359f079289/Code_Club_Rules_Poster_2024_V4.pdf){:target="_blank"}  and put up in a place where all can see them during sessions.
 
 --- task ---
-Develop a code of behaviour or rules in collaboration with creators to help them follow it.
+**Write down** two ways you could encourage creators to collaborate and suggest rules to be added to a [poster](https://assets.ctfassets.net/zsyyd4yzh6xx/72KiBgyhW9QDVONFjD04KB/8e9ae5a4bc0a925d2fa1d8359f079289/Code_Club_Rules_Poster_2024_V4.pdf){:target="_blank"} to help them follow it.
 
 --- /task ---
 
 It is important for volunteers to take responsibility for promoting good and courteous behaviour themselves during the sessions too. 
 
 --- task ---
-Use praise consistently and fairly, avoiding favouritism
+**Read** our [mentor code of behaviour](https://assets.ctfassets.net/zsyyd4yzh6xx/5DU80tjidPoa6L0Tlq6uiY/4c02613c80e81aa276c5d8ab6f2a3ad0/Code_Club_Mentor_Code_of_Behaviour_A4_V5_Digital.pdf) guidance.
   
 --- /task ---
   
@@ -52,7 +52,9 @@ Involve and motivate young people by supporting them with projects suitable for 
 </p>
 
 --- task ---
+
 If a creator is disruptive during a session, talk with their parent or guardian. They might be frustrated with a project, reacting to an external stressor, or have additional needs that are not being supported.
+
 --- /task ---
 
 

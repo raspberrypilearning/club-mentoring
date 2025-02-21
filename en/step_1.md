@@ -134,7 +134,8 @@ We recommend a **3-month minimum commitment** to mentoring at a Code Club to giv
 
 --- task ---
 **Watch** this short video on the expected time commitment of mentoring.
-<iframe width="600" height="337" src="https://www.youtube.com/embed/M-i9IbBIuS8" title="Time commitment of mentoring at a club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="600" height="337" src="https://www.youtube.com/embed/NlCaHNZHr2g" title="Time commitment of mentoring at a club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 --- /task ---
 
 --- task ---

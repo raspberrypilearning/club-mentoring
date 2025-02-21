@@ -31,8 +31,7 @@ If creators work in pairs on a project, for example where you are sharing a devi
 ---
 title: Focus on creator interests
 ---
-You will create a more meaningful learning experience if you allow creators to work on something they are interested in. 
-If they need some help deciding what to do, let them pick from a few options to boost their motivation.
+You will create a more meaningful learning experience if you allow creators to work on something they are interested in. If they need some help deciding what to do, provide a few options for them to pick to boost their motivation and encourage greater independance.
 
 --- /collapse ---
 

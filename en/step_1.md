@@ -18,7 +18,7 @@ Once completed, you should:
 
 In a Code Club session, young people usually create a project like a game, app, or website using code. Often the session starts with a short introduction or ice-breaker, then young people start creating with code. Creators can work alone or in groups. Near the end of the session some creators share what they have made with the group.
 
-Code Clubs run in a variety of different spaces and contexts. Clubs are collaborative spaces, where chat between the creators is encouraged. Some clubs find a bit of structure useful for planning their events. 
+Code Clubs run in a variety of different spaces and contexts. Clubs are collaborative spaces, where chat between the creators is encouraged. 
 
 --- task ---
 
@@ -38,9 +38,7 @@ People have told us they volunteer with Code Club for a variety of reasons. Thes
 
 --- task ---
 
-**Read** [what motivated other mentors](https://codeclub.org/2025/01/09/passion-purpose-play-why-do-volunteers-run-code-clubs) to get involved in Code Club.
-
- **Write down** why you are interested in volunteering at a Code Club.
+**Write down** why you are interested in volunteering at a Code Club.
 
 --- /task ---
 ## Who is involved in a Code Club

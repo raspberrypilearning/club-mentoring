@@ -130,7 +130,7 @@ If you are interested, you can learn more about safeguarding sponsors at: [rpf.i
 --- /task ---
 
 ## Time commitment
-We recommend a **3-month minimum commitment** to mentoring at a Code Club to give you a chance to meaningfully engage with the experience. Although we hope that you enjoy mentoring at a Code Club so much that you continue for much longer.
+We recommend a **3-month minimum commitment** to mentoring at a Code Club to give you a chance to meaningfully engage with the experience. Although we hope that you enjoy it so much that you continue for much longer.
 
 Code Clubs meet regularly, usually every week, every two weeks, or every month. Most clubs schedule their sessions so they are on the same day of the week at the same time. Sessions typically last one to three hours. If a club meets less frequently, they tend to have longer sessions, which include a break. Mentors may be asked to arrive at the venue 15 minutes in advance, and help out after for an additional 10-15 minutes at the end of a session.
 

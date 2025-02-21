@@ -26,7 +26,7 @@ Code Clubs are hardware and software agnostic. That means young people and volun
 - ( )Only resources that they have created themselves.
 
   --- feedback ---
-Some mentors like creating resources to use in their Code Club sessions. However there is no onus on mentors to do this. There are lots of freely available resources online, including on our website such as unplugged activities, our Code Editor and guided [projects](https://projects.raspberrypi.org/en){:target="_blank"}.  
+Some mentors like creating resources to use in their Code Club sessions. However there is no onus on mentors to do this. There are lots of freely available resources online, including on our website such as unplugged activities, our Code Editor and guided projects.  
 
   --- /feedback ---
 
@@ -43,7 +43,7 @@ There are hundreds of free digital making projects available on our website. Som
 
   --- feedback ---
 
-We recommend you avoid using paid for resources and tools. There are lots of freely available resources online, including on our website such as unplugged activities, our Code Editor and guided [projects](https://projects.raspberrypi.org/en){:target="_blank"}.  
+We recommend you avoid using paid for resources and tools. There are lots of freely available resources online, including on our website such as unplugged activities, our Code Editor and guided projects.  
 
   --- /feedback ---
 

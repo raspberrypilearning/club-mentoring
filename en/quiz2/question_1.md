@@ -15,7 +15,7 @@ What learning resources should mentors use in a Code Club setting?
 --- choices ---
 
 
-- (x)Whatever resources or tools suit the needs of those participating. We provide free tools and project resources created specifically for clubs, but you can use others.
+- (x)Whatever resources or tools suit the needs of those participating. We provide free tools and project resources, but you can use others.
 
   --- feedback ---
 

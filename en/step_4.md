@@ -183,9 +183,7 @@ title: Examples of reasonable adjustments in a club
 
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.</p>
-
+It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">

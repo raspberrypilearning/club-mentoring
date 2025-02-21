@@ -28,9 +28,9 @@ These projects are created by experienced educators and tested extensively so th
 Familiarise yourself with the projects creators are working on so you are better able to support them. 
 --- /task ---
 
-### [Project paths](https://projects.raspberrypi.org/en/paths){:target="_blank"}
+### Project paths
 
-Some of our educational projects are in a path format to better support creators who want to learn coding and gradually develop independence. 
+Some of our educational projects are in a [path format](https://projects.raspberrypi.org/en/paths){:target="_blank"} to better support creators who want to learn coding and gradually develop independence. 
 
 --- collapse ---
 ---

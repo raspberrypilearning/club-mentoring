@@ -53,7 +53,7 @@ Within a club there are usually the young people attending (creators), those vol
 ---
 title: Creators (young people)
 ---
-The young people who attend Code Clubs. Creators generally are between the age of nine and sixteen. The only requirements for creators are enthusiasm, an eagerness to learn, and a sprinkle of creativity.
+The young people who attend Code Clubs. Creators generally are between the age of nine and sixteen. The only requirements for creators are enthusiasm, an eagerness to learn, and some creativity.
 
 --- /collapse ---
 
@@ -115,6 +115,11 @@ title: Safeguarding sponsor
 ---
 An adult who works with the club leader to support and oversee the safety of young people at a Code Club. They ensure a club operates in accordance with the [Raspberry Pi Foundation's safeguarding policy](https://www.raspberrypi.org/safeguarding/).
 
+The clubs safeguarding sponsor needs to:
+• Have undertaken safeguarding training in the last three years
+• Have some previous experience of safeguarding
+
+If you are interested, you can learn more about safeguarding sponsors at: [rpf.io/sg-sponsor](http://rpf.io/sg-sponsor){:target="_blank"}
 
 --- /collapse ---
 

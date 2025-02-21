@@ -42,10 +42,6 @@ It is important for volunteers to take responsibility for promoting good and cou
   
 --- /task ---
   
---- task ---
-Involve and motivate young people by supporting them with projects suitable for their interests and experience levels.
-
---- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">In community-based clubs parents or guardians of creators under 12 should be present at sessions. 

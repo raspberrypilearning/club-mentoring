@@ -1,7 +1,6 @@
 ## Introduction
 
-Code Club is a global community of free coding clubs where young people develop skills and confidence to create with digital technologies. 
-We call the adults who help run a Code Club mentors. 
+Code Club is a global community of free coding clubs where young people develop skills and confidence to create with digital technologies. We call the adults who help run a Code Club mentors. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Mentors**</span> are the backbone of Code Club. Without them, Code Clubs would not exist!
@@ -18,9 +17,8 @@ and much more!
 
 ## What happens at a Code Club
 
-In a Code Club session, young people usually create a project like a game, app, or website using code. Often the session starts with a short introduction or ice-breaker, then young people start creating with code. Creators can work alone or in groups. Near the end of the session some creators share what they have made with the group.
+In a Code Club session, young people usually create a project like a game, app, or website using code. Often the session starts with a short introduction or ice-breaker, then young people start creating with code. Creators can work alone or in groups. Clubs are collaborative spaces, where chat between the creators is encouraged. Near the end of the session some creators share what they have made with the group.
 
-Code Clubs run in a variety of different spaces and contexts. Clubs are collaborative spaces, where chat between the creators is encouraged. 
 
 --- task ---
 

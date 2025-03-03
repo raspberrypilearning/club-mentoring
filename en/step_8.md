@@ -85,12 +85,16 @@ Python is used for developing websites and software, task automation, data analy
 
 
 --- task ---
-**Look** at this data visualisation project made in Python. Click **Run** and then on the coloured dots to learn about recent volcanic eruptions.
+**Look** at this data visualisation project made in Python. Click **Run** to load the chart. Notice that the chart is interactive. What happens when you click on the top three nations in the key on the left?
 
-<div class="trinket">
-<iframe src="https://trinket.io/embed/python/818ad12eeb?outputOnly=true&runOption=run" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+
 </div>
-[See inside this Volcanic eruptions project](https://trinket.io/python/818ad12eeb){:target="_blank"}
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/charting-champions-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+</div>
+[See inside this Charting champions project](https://editor.raspberrypi.org/en/projects/charting-champions-example){:target="_blank"}
 
 --- /task ---
 

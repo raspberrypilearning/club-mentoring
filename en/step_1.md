@@ -31,6 +31,7 @@ In a Code Club session, young people usually create a project like a game, app, 
 People have told us they volunteer with Code Club for a variety of reasons. These include:
 + Learning new skills
 + Meeting new people and making friends
++ Adding to their professional development
 + The opportunity to share their knowledge, passion, and experience
 + Wanting to give back to their local community
 + A desire to help young people develop skills for the future

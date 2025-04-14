@@ -8,7 +8,7 @@ The number of mentors needed depends on the venue size and how many creators att
 ---
 title: Creators (young people)
 ---
-The young people who attend Code Clubs. Creators generally are between the age of nine and sixteen. The only requirements for creators are enthusiasm, an eagerness to learn, and some creativity.
+The young people who attend Code Clubs. Creators generally are between the age of nine and sixteen. The only requirements for creators are an interest in making with technology, and some creativity.
 
 --- /collapse ---
 

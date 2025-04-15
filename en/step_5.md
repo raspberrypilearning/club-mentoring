@@ -152,6 +152,7 @@ To make your Code Club more accessible:
 + **Listen to creators, parents, and guardians**: See how you can best support your creators. Make sure your contact information is up-to-date and you regularly check your email inbox.
 
 + **Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
+--- collapse ---
   
 ---
 title: Examples of reasonable adjustments in a club

@@ -12,7 +12,7 @@ steps:
 - title: Skills and group management
 - title: Mentoring styles
 - title: Supporting all learners 
-- title: Reflection scenarios
+- title: Reflection quiz
   knowledge_quiz:
     path: quiz1
     version: 1
@@ -22,7 +22,7 @@ steps:
 - title: Common programming languages
 - title: Celebrate and showcase
 - title: Resources for mentors
-- title: More reflection scenarios
+- title: Reflection quiz
   knowledge_quiz:
     path: quiz2
     version: 1

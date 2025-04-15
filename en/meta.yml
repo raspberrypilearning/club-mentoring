@@ -18,7 +18,7 @@ steps:
     version: 1
     questions: 3
     passing_score: 3
-- title: Session resources
+- title: Learning resources
 - title: Common programming languages
 - title: Celebrate and showcase
 - title: Resources for mentors

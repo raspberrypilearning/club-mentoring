@@ -130,14 +130,11 @@ Using fair teaching methods, like open-ended questions and group discussions.
 + Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
 + Using less structured guidance approaches, such as open-ended, exploratory activities and collaborative tasks that encourage discussion
 
-
 --- /collapse ---
   
 --- task ---
 
-
 **Review** the examples of culturally responsive mentoring practices above and pick two you would be interested in trying as a mentor.
-
 
 --- /task ---
 
@@ -152,6 +149,7 @@ To make your Code Club more accessible:
 + **Listen to creators, parents, and guardians**: See how you can best support your creators. Make sure your contact information is up-to-date and you regularly check your email inbox.
 + **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. If you are unsure you may wish to ask someone respectfully what they are most comfortable with.
 + **Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
+
 --- collapse ---
   
 ---

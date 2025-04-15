@@ -33,11 +33,9 @@ Young people can create digital stories, games, and animations in Scratch.
 --- /task ---
 
  
---- task ---
-  
 Use our **[Scratch reference guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/0)** to look up information on the different elements in Scratch to help you while mentoring. 
   
---- /task ---
+
 ________________________________________
 
 ## Web design

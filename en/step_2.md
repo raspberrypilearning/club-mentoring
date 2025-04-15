@@ -83,7 +83,7 @@ If you are interested, you can learn more about safeguarding sponsors at: [rpf.i
 ---
 title: Parents or guardians of creators
 ---
-In community-based settings parents and guardians of creators under 12 years of age are encouraged to attend and often help out.
+In community-based clubs a parent or guardian of creators under 12 should be present at sessions. Many help out and become mentors themselves.
 
 --- /collapse ---
 

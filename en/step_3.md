@@ -43,5 +43,5 @@ It is important for volunteers to take responsibility for promoting good and cou
 --- /task ---
   
 
-In community-based clubs parents or guardians of creators under 12 should be present at sessions. If a creator is disruptive during a session, check in with them first to resolve the issue. You can also talk with their parent or guardian. They might be frustrated with a project, reacting to an external stressor, or have additional needs that are not being supported.
+In community-based clubs a parent or guardian of creators under 12 should be present at sessions. If a creator is disruptive check in with them first to resolve the issue. You can also talk with their parent or guardian. They might be frustrated with a project, reacting to an external stressor, or have additional needs that are not being supported.
 

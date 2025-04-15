@@ -156,14 +156,14 @@ To make your Code Club more accessible:
 title: Examples of reasonable adjustments in a club
 ---
 
-+ Rearranging tables and chairs to create an accessible space.
-+ Designating a quiet corner.
 + Providing a written or visual schedule of the session at the beginning.
++ Rearranging tables and chairs to create an accessible space.
 + Providing larger screens for anyone with visual impairments.
 + Printing instructions in a large, easy-to-read font.
-+ Asking mentors to communicate slowly and clearly when they explain something.
-+ Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
++ Designating a quiet corner.
 + Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
++ Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
++ Asking mentors to communicate slowly and clearly when they explain something.
 
 --- /collapse ---
 

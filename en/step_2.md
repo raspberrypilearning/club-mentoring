@@ -1,14 +1,12 @@
 ## Who is involved in a Code Club
 Within a club there are usually the young people attending (creators), those volunteering their time to support the club, and in community-based settings parents and guardians of younger creators.
 
-The number of mentors needed depends on the venue size and how many creators attend the sessions. We recommend a ratio of at least one adult to every ten young people, unless you are a teacher or have teachers helping at your club.
-
 --- collapse ---
 
 ---
 title: Creators (young people)
 ---
-The young people who attend Code Clubs. Creators generally are between the age of nine and sixteen. The only requirements for creators are an interest in making with technology, and some creativity.
+The young people who attend Code Clubs. The only requirements for creators are an interest in making with technology, and some creativity.
 
 --- /collapse ---
 
@@ -31,6 +29,8 @@ We recommend club leaders also have a co-leader or deputy leader in place so tha
 ---
 title: Mentors
 ---
+The number of mentors needed depends on the venue size and how many creators attend the sessions. We recommend a ratio of at least one adult to every ten young people, unless you are a teacher or have teachers helping at your club.
+
 Mentors facilitate learning by:
 - encouraging young people
 - helping them get set up
@@ -48,6 +48,7 @@ They can also help:
 - promote the club
 
 You don’t need to have coding or teaching experience to be a mentor.
+
 
 --- /collapse ---
 
@@ -75,6 +76,15 @@ The clubs safeguarding sponsor needs to:
 • Have some previous experience of safeguarding
 
 If you are interested, you can learn more about safeguarding sponsors at: [rpf.io/sg-sponsor](http://rpf.io/sg-sponsor){:target="_blank"}
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Parents or guardians of creators
+---
+In community-based settings parents and guardians of creators under 12 years of age are encouraged to attend and often help out.
 
 --- /collapse ---
 

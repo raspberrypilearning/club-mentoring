@@ -1,10 +1,8 @@
-## Reflection scenarios
+## Reflection quiz
 
-Well done. Answer the three scenario questions below to reflect on what you've learnt.
+Answer the three scenario questions below to reflect on what you've learnt.
 
 After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
-
-Have fun!
 
 --- question ---
 

@@ -19,7 +19,7 @@ title: Group creators together
 ---
 If creators sit together based on experience or age, they will be more able to support each other.
 
-If creators work in pairs on a project, for example where you are sharing a device between two creators, you can use [pair programming](rpf.io/pair-programming). 
+If creators work in pairs on a project, for example where you are sharing a device between two creators, you can use [pair programming](https://static.teachcomputing.org/pedagogy/QR3-Pair-programming.pdf){:target="_blank"}. 
 
 --- /collapse ---
   

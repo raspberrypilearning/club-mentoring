@@ -15,7 +15,7 @@ The young people who attend Code Clubs. The only requirements for creators are a
 ---
 title: Club leaders
 ---
-Club leaders are the adults who volunteer to take charge of setting up, running, and maintaining a club. Once the club is open, they can be viewed as project managers of a Code Club. They don’t have to be technical, but they do have to have good organisational skills. 
+Club leaders are the adults who volunteer to take charge of setting up, running, and maintaining a club. Once the club is open, they can be viewed as project managers of a Code Club. They don’t have to be technical, but they usually have good organisational skills. 
 
 We recommend club leaders also have a co-leader or deputy leader in place so that the club can run even if the club leader cannot attend a session.
 

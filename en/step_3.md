@@ -31,7 +31,7 @@ Code Clubs offer so much more for young people than learning to create with code
 Code Clubs aren’t formal education settings. It’s important that sessions are fun for all those involved. To help make sessions enjoyable for everyone, we encourage club leaders and mentors to work with creators to agree some rules at the start of the year or term. These can then be added to our [rules poster template](https://assets.ctfassets.net/zsyyd4yzh6xx/72KiBgyhW9QDVONFjD04KB/8e9ae5a4bc0a925d2fa1d8359f079289/Code_Club_Rules_Poster_2024_V4.pdf){:target="_blank"}  and put up in a place where all can see them during sessions.
 
 --- task ---
-**Write down** two ways you could encourage creators to collaborate and suggest rules to be added to a rules poster to help them follow it.
+**Ask** the club leader if the club you will be mentoring at already has rules in place.
 
 --- /task ---
 

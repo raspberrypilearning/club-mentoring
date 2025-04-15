@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Code Clubs are hardware and software agnostic. That means that creators and mentors can use whatever resources, tools, and programming languages suit their needs. There are lots of freely available resources online. 
+Creators and mentors can use whatever resources, tools, and programming languages suit their needs. There are lots of freely available resources online. 
 
 One way we support clubs is by providing  ice-breaker activities, unplugged resources, guided projects and an online Code Editor tool for free to use in your Code Club. All of our resources and tools are **free**, and do not require young people to create a Raspberry Pi Foundation account to use.
   

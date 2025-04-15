@@ -19,15 +19,15 @@ You can use our [editabe and printable **certificates**](https://codeclub.org/en
 --- collapse ---
   
 ---
-title: Using progress charts
+title: Using progress maps
 ---
-[Our **progress charts**](https://codeclub.org/en/resources/progress-charts) are available for four project paths:
+[Our **progress maps**](https://codeclub.org/en/resources/progress-maps) are available for four project paths:
 - Introduction to Scratch
 - Introduction to web
 - Introduction to Python
 - Introduction to micro:bit
 
-The progress charts have been designed as colouring sheets which you can print to use in your Code Club. When coders complete a project or achievement, they can colour in the badges on their progress chart to celebrate what they have done!
+The progress maps have been designed as colouring sheets which you can print to use in your Code Club. When coders complete a project or achievement, they can colour in the badges on their progress chart to celebrate what they have done!
 
 --- /collapse ---
 

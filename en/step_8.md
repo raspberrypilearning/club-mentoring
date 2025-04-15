@@ -4,7 +4,7 @@ The most commonly used programming languages used in Code Club are Scratch, HTML
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
-  <span style="color: #0faeb0">**Remember:** You don't need to be an experienced coder to mentor at a Code Club.</p>
+  <span style="color: #0faeb0">You don't need to be an experienced coder to mentor at a Code Club.</p>
 
 
 ## Scratch

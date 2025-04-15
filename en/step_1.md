@@ -6,7 +6,7 @@ Code Club is a global community of free coding clubs where young people develop 
 <span style="color: #0faeb0">**Mentors**</span> are the backbone of Code Club. Without them, Code Clubs would not exist!
 </p>
 
-This course will primarily focus on training mentors who support young learners through providing encouragement, guidance or technical help. Tasks for you to complete are marked by a box with a green background and a grey checkbox in the top-right corner. We recommend using a pen and paper, or device to take notes to assist your learning.
+This course will focus on training mentors who support young learners through providing encouragement, guidance or technical help. Tasks are marked by a green background and a grey checkbox in the top-right corner. Use a pen and paper, or device to take notes to assist your learning.
 
 Once completed, you should:
 + Understand the different activities mentors in a Code Club do

@@ -1,6 +1,6 @@
 ## Common programming languages in Code Clubs
 
-The most commonly used programming languages used in Code Club are Scratch, HTML and CSS, and Python. Mentors are not expected to know these languages when they start at a club. However, learning a little about each will help develop your knowledge and confidence in a club setting. 
+The most commonly used programming languages used in Code Club are Scratch, HTML and CSS, and Python. Mentors are not expected to know all these languages when they start at a club. However, learning a little about each will help develop your knowledge and confidence in a club setting. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 

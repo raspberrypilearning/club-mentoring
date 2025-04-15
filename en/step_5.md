@@ -149,17 +149,9 @@ Code Club welcomes creators and mentors of all ages, backgrounds, and abilities.
   
 To make your Code Club more accessible:
 
---- task --- 
-  
-**Listen to creators, parents, and guardians**: See how you can best support your creators. Make sure your contact information is up-to-date and you regularly check your email inbox.
++ **Listen to creators, parents, and guardians**: See how you can best support your creators. Make sure your contact information is up-to-date and you regularly check your email inbox.
 
---- /task ---
-
---- task --- 
-  
-**Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
-
---- collapse ---
++ **Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
   
 ---
 title: Examples of reasonable adjustments in a club
@@ -176,13 +168,9 @@ title: Examples of reasonable adjustments in a club
 
 --- /collapse ---
 
---- /task ---
 
---- task --- 
++ **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club.
 
-**Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club.
-
---- /task ---
 
 It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.
 

@@ -1,5 +1,4 @@
 ## Who is involved in a Code Club
-Within a club there are usually the young people attending (creators), those volunteering their time to support the club, and in community-based settings parents and guardians of younger creators.
 
 --- collapse ---
 

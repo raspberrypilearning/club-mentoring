@@ -147,7 +147,7 @@ Code Club welcomes creators and mentors of all ages, backgrounds, and abilities.
 To make your Code Club more accessible:
 
 + **Listen to creators, parents, and guardians**: See how you can best support your creators. Make sure your contact information is up-to-date and you regularly check your email inbox.
-+ **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. If you are unsure you may wish to ask someone respectfully what they are most comfortable with.
++ **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. 
 + **Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
 
 --- collapse ---

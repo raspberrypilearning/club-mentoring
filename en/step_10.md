@@ -4,6 +4,7 @@
 - [Background checking guidance](https://help.codeclub.org/cckb/s/article/Do-club-leaders-and-mentors-need-a-background-check){:target="_blank"}
 - [Code Club events and training](https://codeclub.org/en/events){:target="_blank"}
 - [Code Club blog](https://codeclub.org/news){:target="_blank"}
+- [Code Club slack (Mentor messaging app)](https://codeclub.org/en/slack){:target="_blank"}
 
 ### Session resources
 + [Ice-breaker and unplugged activities](https://codeclub.org/en/resources/activities){:target="_blank"}

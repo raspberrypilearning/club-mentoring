@@ -169,10 +169,7 @@ title: Examples of reasonable adjustments in a club
 --- /collapse ---
 
 
-+ **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club.
-
-
-It is good to reflect how someone chooses to describe themselves, so you may wish to ask them what they are most comfortable with.
++ **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. How someone chooses to describe themselves may not be obvious, so you may wish to ask them what they are most comfortable with.
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">

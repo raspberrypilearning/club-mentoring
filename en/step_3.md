@@ -38,7 +38,7 @@ It’s important that sessions are fun for all those involved. To help make sess
 It is important for volunteers to take responsibility for promoting good and courteous behaviour themselves during the sessions too. 
 
 --- task ---
-**Read** our [mentor code of behaviour](https://assets.ctfassets.net/zsyyd4yzh6xx/5DU80tjidPoa6L0Tlq6uiY/4c02613c80e81aa276c5d8ab6f2a3ad0/Code_Club_Mentor_Code_of_Behaviour_A4_V5_Digital.pdf) guidance.
+**Read** our [mentor code of behaviour](https://assets.ctfassets.net/zsyyd4yzh6xx/5DU80tjidPoa6L0Tlq6uiY/4c02613c80e81aa276c5d8ab6f2a3ad0/Code_Club_Mentor_Code_of_Behaviour_A4_V5_Digital.pdf){:target="_blank"} guidance.
   
 --- /task ---
   

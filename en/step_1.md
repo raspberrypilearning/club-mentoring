@@ -3,7 +3,7 @@
 Code Club is a global community of free coding clubs where young people develop skills and confidence to create with digital technologies. We call the adults who help run a Code Club mentors. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Mentors**</span> are the backbone of Code Club. Without them, Code Clubs would not exist!
+<span style="color: #0faeb0">**Mentors** are the backbone of Code Club. Without them, Code Clubs would not exist!
 </p>
 
 This course will focus on training mentors who support young learners through providing encouragement, guidance or technical help. 

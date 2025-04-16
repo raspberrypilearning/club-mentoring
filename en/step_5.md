@@ -8,7 +8,7 @@ title: Younger learners
 As a general rule, younger children tend to have a shorter attention span.
 
 If your club has younger creators, try breaking up the coding session into shorter activity slots, changing the activity, moving people around, or including a break.
-Including [ice-breakers and unplugged activities](https://codeclub.org/en/resources/activities) alongside coding activities can be great for this age group.
+Including [ice-breakers and unplugged activities](https://codeclub.org/en/resources/activities){:target="_blank"} alongside coding activities can be great for this age group.
 
 --- /collapse ---
 
@@ -44,7 +44,7 @@ title: Consider their level of experience
 ---
 Choosing projects suited to a creators experience level can ensure they stay engaged and develop skills progressively. Overly difficult tasks may lead to frustration, while overly simple ones can cause boredom.
 
-If they need support choosing the next thing to make consider their current abilities and past experiences. Offer a few options and encourage young people to share what they think of the project while they are completing it. Our [project paths](https://projects.raspberrypi.org/en/paths) can be used develop their coding and design skills.
+If they need support choosing the next thing to make consider their current abilities and past experiences. Offer a few options and encourage young people to share what they think of the project while they are completing it. Our [project paths](https://projects.raspberrypi.org/en/paths){:target="_blank"} can be used develop their coding and design skills.
 
 If they:
 - are sitting looking at the screen, seem stuck or frustrated, check in with them to offer support or guidance.
@@ -57,7 +57,7 @@ If they:
 ---
 title: Reflecting on learnings
 --- 
-Encouraging learners to revisit the important learnings from the project. This solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [project paths](https://projects.raspberrypi.org/en/paths).
+Encouraging learners to revisit the important learnings from the project. This solidifies new knowledge and provides opportunities for mastery. We provide opportunities for this in our [project paths](https://projects.raspberrypi.org/en/paths){:target="_blank"}.
 
 --- task ---
 

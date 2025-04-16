@@ -125,5 +125,3 @@ title: Code Editor features
 + You can enlarge or reduce the text size in input and output, which is especially useful for people with visual impairments and for educators and volunteers who want to demonstrate something to a group of learners.
 --- /collapse ---
 
-
---- save ---

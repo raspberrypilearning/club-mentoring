@@ -68,13 +68,13 @@ Experienced creators can become youth mentors to help support other young people
 ---
 title: Safeguarding sponsor
 ---
-An adult who works with the club leader to support and oversee the safety of young people at a Code Club. They ensure a club operates in accordance with the [Raspberry Pi Foundation's safeguarding policy](https://www.raspberrypi.org/safeguarding/).
+An adult who works with the club leader to support and oversee the safety of young people at a Code Club. They ensure a club operates in accordance with the [Raspberry Pi Foundation's safeguarding policy](https://www.raspberrypi.org/safeguarding/){:target="_blank"}.
 
 The clubs safeguarding sponsor needs to:
 • Have undertaken safeguarding training in the last three years
 • Have some previous experience of safeguarding
 
-If you are interested, you can learn more about safeguarding sponsors at: [rpf.io/sg-sponsor](http://rpf.io/sg-sponsor){:target="_blank"}
+If you are interested, you can learn more about [safeguarding sponsors](http://rpf.io/sg-sponsor){:target="_blank"}.
 
 --- /collapse ---
 
@@ -89,7 +89,7 @@ In community-based clubs a parent or guardian of creators under 12 should be pre
 
 --- task ---
 
-**Review** the roles within a Code Club. Which tasks within these roles do you think you are best suited to?
+**Review** the roles within a Code Club. Which tasks within the mentors role do you think you are best suited to?
 
 --- /task ---
 

@@ -57,7 +57,7 @@ title: Examples of culturally responsive mentoring practices
 By embracing culturally responsive practices, we can create a Code Club environment where all creators can thrive and reach their full potential.
 
 
-## Additional tips for helping creators of different ages and abilities
+## Additional tips for supporting creators
 
 
 --- collapse ---

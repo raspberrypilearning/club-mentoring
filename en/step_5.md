@@ -1,6 +1,6 @@
 ## Culturally responsive mentoring
 
-This mentoring approach emphasises the benefits of diversity and inclusivity. It acknowledges that a mentors and creators background can impact their sense of belonging, their relationship with others, and their approach to learning.
+This mentoring approach emphasises the benefits of diversity and inclusivity. It acknowledges that a mentors, or creators, background can impact their sense of belonging, their relationship with others, and their approach to learning.
 
 --- task ---
 **Watch** this short video on culturally responsive mentoring.

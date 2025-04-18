@@ -1,3 +1,37 @@
+## Accessibility practices for Code Clubs
+Code Club welcomes creators and mentors of all ages, backgrounds, and abilities. At your club, there might be people with disabilities and accessibility requirements.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Code Club — not just those with a disability.</p>
+  
+To make your Code Club more accessible:
+
++ **Listen to creators, parents, and guardians**: Make sure the clubs contact information is up-to-date and people have the opportunity to share how creators needs can be best supported.
++ **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. 
++ **Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
+
+--- collapse ---
+  
+---
+title: Examples of reasonable adjustments in a club
+---
+
++ Providing a written or visual schedule of the session at the beginning.
++ Rearranging tables and chairs to create an accessible space.
++ Providing larger screens for anyone with visual impairments.
++ Printing instructions in a large, easy-to-read font.
++ Designating a quiet corner.
++ Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
++ Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
++ Asking mentors to communicate slowly and clearly when they explain something.
+
+--- /collapse ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">If there are a number of creators with disabilities, you could appoint a mentor as an accessibility officer to oversee these adjustments.</p>
+
+And remember, not all disabilities or additional needs are visible.
+
 ## Culturally responsive mentoring
 
 This mentoring approach emphasises the benefits of diversity and inclusivity. It acknowledges that a creators and/or mentors background can impact their sense of belonging, their relationship with others, and their approach to learning.
@@ -23,8 +57,7 @@ title: Examples of culturally responsive mentoring practices
 By embracing culturally responsive practices, we can create a Code Club environment where all creators can thrive and reach their full potential.
 
 
-
-## Helping creators of different ages and abilities
+## Additional tips for helping creators of different ages and abilities
 
 
 --- collapse ---
@@ -112,36 +145,4 @@ We will go into more detail on this in the "Celebrate and showcase" section late
 
 --- /collapse ---
 
-## Accessibility practices for Code Clubs
-Code Club welcomes creators and mentors of all ages, backgrounds, and abilities. At your club, there might be people with disabilities and accessibility requirements.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Everyone’s needs and abilities will be different, and this goes for all members of your Code Club — not just those with a disability.</p>
-  
-To make your Code Club more accessible:
-
-+ **Listen to creators, parents, and guardians**: Make sure the clubs contact information is up-to-date and people have the opportunity to share how creators needs can be best supported.
-+ **Use inclusive language**: Use language that is positive and free from discrimination and stereotyping. Avoid terms that might be offensive, or any language that excludes or isolates a person from other members of the club. 
-+ **Make reasonable adjustments**: Talk about any adjustments you can make to support creators and how best to work with assistive technologies or aids.
-
---- collapse ---
-  
----
-title: Examples of reasonable adjustments in a club
----
-
-+ Providing a written or visual schedule of the session at the beginning.
-+ Rearranging tables and chairs to create an accessible space.
-+ Providing larger screens for anyone with visual impairments.
-+ Printing instructions in a large, easy-to-read font.
-+ Designating a quiet corner.
-+ Allowing movement breaks. Some people can find it challenging to sit for long periods, even if they find the activity engaging.
-+ Introducing the creator to a mentor who attends regularly, so they know an adult by name and have a friendly face to look out for.
-+ Asking mentors to communicate slowly and clearly when they explain something.
-
---- /collapse ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">If there are a number of creators with disabilities, you could appoint a mentor as an accessibility officer to oversee these adjustments.</p>
-
-And remember, not all disabilities or additional needs are visible.

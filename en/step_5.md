@@ -89,32 +89,12 @@ We will go into more detail on this in the "Celebrate and showcase" section late
 
 ## Culturally responsive mentoring
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-  
-Coding can help young people to participate in and shape a rapidly changing world. It's important that learning materials present computing as a career that is open to all and avoid historic stereotypes related to computing. This includes how topics are presented, as well as the language and media assets chosen to introduce them. 
-  
-Our learning materials are designed to be inclusive. Care should be taken when using other materials.
+This mentoring approach emphasises the benefits of diversity and inclusivity. It acknowledges that a mentors and creato background can impact their sense of belonging, their relationship with others, and their approach to learning.
 
---- task ---
+**Watch** this short video on culturally responsive mentoring.
+<iframe width="600" height="337" src="https://www.youtube.com/embed/4NbFrjlkXxM" title="Culturally responsive mentoring practices in your Code Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The materials you use should present computing as an activity and career that is open to everyone.
-
---- /task ---
-
---- task ---
-Consider the language and imagery you use when introducing topics.
---- /task ---
-
---- task ---
-Be sure to avoid historical stereotypes related to computing.
-
---- /task ---
-
-  
-It’s important that creators can make projects that incorporate their knowledge, culture, and heritage.
-  
-Culturally responsive mentoring helps creators think critically about the world and ask questions about fairness, power, and social issues. It gives them chances to work on problems that matter to them and their communities.
+By embracing culturally responsive practices, we can create a Code Club environment where all creators can thrive and reach their full potential.
 
 --- collapse ---
   
@@ -125,10 +105,8 @@ title: Examples of culturally responsive mentoring practices
 + Using young people's own culture and experiences to help them learn.
 + Letting creators pick projects that matter to them and show their cultural identity.
 + Talking about fairness, social issues, and bias.
-Using fair teaching methods, like open-ended questions and group discussions.
++ Using open-ended questions and group discussions.
 + Showing different cultures in learning materials and making sure everyone can use them.
-+ Providing inclusive representations of a range of cultures, and making sure learning materials are accessible
-+ Using less structured guidance approaches, such as open-ended, exploratory activities and collaborative tasks that encourage discussion
 
 --- /collapse ---
   

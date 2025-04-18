@@ -12,10 +12,10 @@ This mentoring approach emphasises the benefits of diversity and inclusivity. It
 title: Examples of culturally responsive mentoring practices
 ---  
 
-+ Using young people's own culture and experiences to help them learn.
-+ Letting creators pick projects that matter to them and show their cultural identity.
 + Talking about fairness, social issues, and bias.
 + Using open-ended questions and group discussions.
++ Using examples from creators own experiences to help them learn.
++ Letting creators pick projects that matter to them and show their cultural identity.
 + Showing different cultures in learning materials and making sure everyone can use them.
 
 --- /collapse ---

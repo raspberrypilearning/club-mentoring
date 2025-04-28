@@ -8,6 +8,7 @@ This mentoring approach emphasises the benefits of diversity and inclusivity. It
 --- /task ---
 
 --- collapse ---
+
 ---
 title: Examples of culturally responsive mentoring practices
 ---  
@@ -72,6 +73,7 @@ Including [ice-breakers and unplugged activities](https://codeclub.org/en/resour
 
 --- /collapse ---
 
+
 --- collapse ---
 
 ---
@@ -97,6 +99,7 @@ Creators can also adapt our projects to make them more relavant to their interes
 
 --- /collapse ---
 
+
 --- collapse ---
   
 ---
@@ -111,6 +114,7 @@ If they:
 - complete the project very quickly, or seem bored by it, suggest ways they could add to it or projects that will progress them further.
 
 --- /collapse ---
+
 
 --- collapse ---
   
@@ -129,8 +133,8 @@ Encourage reflection by asking questions of young people, such as:
 
 --- /task ---
 
-
 --- /collapse ---
+
 
 --- collapse ---
   

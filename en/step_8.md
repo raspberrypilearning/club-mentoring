@@ -1,6 +1,6 @@
-## Common programming languages in Code Clubs
+## Common programming languages used in Code Clubs
 
-The most commonly used programming languages used in Code Club are Scratch, HTML and CSS, and Python. Mentors are not expected to know all these languages when they start at a club. However, learning a little about each will help develop your knowledge and confidence in a club setting. 
+The most commonly used programming languages in Code Clubs are Scratch, HTML and CSS, and Python. Mentors are not expected to know all these languages when they start at a club. However, learning a little about each will help develop your knowledge and confidence in a club setting. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 
@@ -9,7 +9,7 @@ The most commonly used programming languages used in Code Club are Scratch, HTML
 
 ## Scratch
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Scratch** is a block-based, drag-and-drop style coding language with a simple visual interface. It promotes creativity, computational thinking, and problem solving skills. </p>
+<span style="color: #0faeb0">**Scratch** is a block-based, drag-and-drop style coding language with a simple visual interface. It promotes creativity, computational thinking, and problem-solving skills.</p>
 Scratch is particularly great for beginners and younger children as they can see the impact of their code quickly, without worrying about typing or remembering names and syntax. It is free, available online, offline, and in more than 70 languages.
 
 **What can you make with it?**
@@ -22,7 +22,7 @@ Young people can create digital stories, games, and animations in Scratch.
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528697069/?autostart=false" frameborder="0"></iframe>
 </div>
 
-[See inside this Cool Shirts project](https://scratch.mit.edu/projects/528697069/editor){:target="_blank"}
+[See inside this Cool Shirts project](https://scratch.mit.edu/projects/528697069/editor){:target="_blank"}.
 
 --- /task ---
   
@@ -33,14 +33,14 @@ Young people can create digital stories, games, and animations in Scratch.
 --- /task ---
 
  
-Use our **[Scratch reference guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/0)** to look up information on the different elements in Scratch to help you while mentoring. 
+Use our **[Scratch reference guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch/0)** to discover information on the different elements in Scratch to help you while mentoring. 
   
 
 ________________________________________
 
 ## Web design
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**HTML and CSS** are used to structure and style webpages. They are the building blocks of every webpage on the internet. **Javascript** is a coding language that makes websites interactive; like adding clickable buttons, animations, or pop-ups.</p> 
+<span style="color: #0faeb0">**HTML and CSS** are used to structure and style webpages. They are the building blocks of every webpage on the internet. **Javascript** is a coding language that makes websites interactive by adding clickable buttons, animations, or pop-ups.</p> 
 Suitable for creators who have some experience typing, these languages can provide a good, visual introduction to web development for those who have the patience for a little problem solving.
 
 **What can you make with it?**
@@ -57,7 +57,7 @@ Young people can make and style websites with multiple webpages and interactive 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/vegan-banana-bread" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
   
-[See inside this Banana bread webpage project](https://editor.raspberrypi.org/en/projects/vegan-banana-bread){:target="_blank"}
+[See inside this Banana bread webpage project](https://editor.raspberrypi.org/en/projects/vegan-banana-bread){:target="_blank"}.
 
 
 --- /task ---
@@ -72,8 +72,8 @@ ________________________________________
 
 ## Python
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Python** is a text-based coding language. It is one of the most popular programming languages because of its readability, and similarities to written English, making it easier to understand than other programming languages. </p>
-It is suitable for older children who have some typing skills.
+<span style="color: #0faeb0">**Python** is a text-based coding language. It is one of the most popular programming languages because of its readability and similarities to written English, which make it easier to understand than other programming languages.</p>
+It is suitable for older creators who have some typing skills.
 
 **What can you make with it?**
 Python is used for developing websites and software, task automation, data analysis, and data visualisation.
@@ -90,7 +90,7 @@ Python is used for developing websites and software, task automation, data analy
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/charting-champions-example" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
 </iframe>
 </div>
-[See inside this Charting champions project](https://editor.raspberrypi.org/en/projects/charting-champions-example){:target="_blank"}
+[See inside this Charting champions project](https://editor.raspberrypi.org/en/projects/charting-champions-example){:target="_blank"}.
 
 --- /task ---
 

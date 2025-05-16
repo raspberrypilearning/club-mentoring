@@ -14,7 +14,7 @@ title: Encouragement
 A positive attitude and encouragement helps young people take pride in learning something they initially find difficult.
   
 For example:
-+ “Well done for getting this far through the project yourself. Let’s look through the last few lines of code to see where the issue might be.”
++ “Well done for getting this far through the project by yourself. Let’s look through the last few lines of code to see where the issue might be.”
 + “Well done for completing this project. It would be great if you can share it with the group at the end of the session so they can see and learn from the work you did.”
 
 --- /collapse ---
@@ -36,7 +36,7 @@ For example:
 
 
   
-![Mentor asking a child a question](images/Mentor_asking_question.png)
+![Mentor asking a child a question.](images/Mentor_asking_question.png)
 
 --- /collapse ---
 
@@ -55,9 +55,9 @@ Encourage creators to:
 4. If they still need help, ask a mentor
   
 For example:
-+ Look at what the most recent piece of code you added was. Was the code running without any errors before you added that in?
-+ If you search on Google "code to add a link in html" you should find what you are looking for.
-+ Did you ask [name of another creator] what they did to get it to work? They are working on a similar project.
++ "Look at what the most recent piece of code you added was. Was the code running without any errors before you added that in?"
++ "If you search on Google for 'code to add a link in HTML', you should find what you are looking for."
++ "Did you ask [name of another creator] how they got their code to work? They're working on a similar project."
   
 --- /collapse ---
   
@@ -92,9 +92,9 @@ Direct instruction can be useful when introducing a concept, a topic, or some lo
 --- /collapse ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> Mentoring isn’t about knowing everything. </p>
+<span style="color: #0faeb0"> Mentoring isn’t about knowing everything.</p>
 
-If a creator asks you a question that you don't know the answer to, that is ok. Tell them you don't know while supporting them to find the answer. It is helpful for young people to know that it’s fine not to have all the answers and that mentors are learning too. 
+If a creator asks you a question that you don't know the answer to, that's ok! Tell them that you don't know and support them to find the answer. It is helpful for young people to know that it’s fine not to have all the answers and that mentors are learning too. 
   
 --- task ---
 

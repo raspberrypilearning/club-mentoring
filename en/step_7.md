@@ -4,7 +4,7 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Creators and mentors can use whatever resources, tools, and programming languages suit their needs. There are lots of freely available resources online. 
 
-One way we support clubs is by providing  ice-breaker activities, unplugged resources, guided projects and an online Code Editor tool for free to use in your Code Club. All of our resources and tools are **free**, and do not require young people to create a Raspberry Pi Foundation account to use.
+One way we support clubs is by providing icebreaker activities, unplugged resources, guided projects, and an online Code Editor tool to use in your Code Club. All of our resources and tools are **free**, and do not require young people to create a Raspberry Pi Foundation account to use.
   
 ## Icebreakers and unplugged activities
 Icebreakers are a great way to introduce new creators to other club members, encourage communication, and create a sense of belonging. We recommend running an icebreaker activity at the start of a session when you have new creators join. 
@@ -20,7 +20,7 @@ Check out some example [icebreaker and unplugged activities](https://codeclub.or
 <div>
 
 ## Our project resources
-On the [Code Club projects site](https://projects.raspberrypi.org/en){:target="_blank"}, we have a huge range of guided project paths and standalone projects for creators to try
+On the [Code Club projects site](https://projects.raspberrypi.org/en){:target="_blank"}, we have a huge range of guided project paths and standalone projects for creators to try.
 
 These projects are created by experienced educators and tested extensively so that we know they work. They are designed for creators to learn independently, and support them to use different technologies to bring their ideas to life through customising their projects.
   
@@ -50,25 +50,25 @@ Each path is made up of six projects, of three different types, in a 3-2-1 struc
 
 ### Project path features
 
-We’ve also introduced some new features to add interactivity, choice, and authenticity to each project in a path:
+We’ve also introduced some new features to add interactivity, choice, and authenticity to each project in a path.
 
 --- collapse ---
 ---
 title: Real-world info box-outs
 ---
 
-Provide interesting and relevant facts about the skills and knowledge being taught.
+These provide interesting and relevant facts about the skills and knowledge being taught.
   
-![An example info box-out](images/box-out.png)
+![An example info box-out.](images/box-out.png)
 --- /collapse ---
 
 --- collapse ---
 ---
 title: Design decision points
 ---
-Allow creators to make choices about how their project looks and what it does, based on their preferences and interests.
+These allow creators to make choices about how their project looks and what it does, based on their preferences and interests.
   
-![An example creators can make project choices](images/design-decision.png)
+![An example creators can make project choices.](images/design-decision.png)
 --- /collapse ---
 
 --- collapse ---
@@ -79,7 +79,7 @@ title: Debugging tips
 ---
 Throughout each project, debugging tips give creators guidance for finding and fixing common coding mistakes.
 
-![A debugging tip example](images/Debug-Python.png)
+![A debugging tip example.](images/Debug-Python.png)
 
 --- /collapse ---
   
@@ -87,9 +87,9 @@ Throughout each project, debugging tips give creators guidance for finding and f
 ---
 title: Project reflection steps
 ---
-Solidify new knowledge and provide opportunities for mastery by letting creators revisit the important learnings from the project. Common misconceptions are highlighted, and they are guided to the correct answer.
+These solidify new knowledge and provide opportunities for mastery by letting creators revisit the important learnings from the project. Common misconceptions are highlighted, and they are guided to the correct answer.
 
-![A reflection question example](images/Reflection.png)
+![A reflection question example.](images/Reflection.png)
 
 --- /collapse ---
 
@@ -99,7 +99,7 @@ title: An open-ended upgrade step
 ---
 The end of each project offers inspiration for young people, by giving them ideas for ways in which they could continue to improve upon their project in the future.
 
-![An upgrade step example](images/Upgrade.png)
+![An upgrade step example.](images/Upgrade.png)
 
 --- /collapse ---
  
@@ -110,18 +110,18 @@ You can learn more about our paths and their features with [our facilitator guid
 </div>
 
 ## Our Code Editor
-We have created a [free online text-based Code Editor](https://editor.raspberrypi.org/en/){:target="_blank"} to help young people aged 7 and older learn to write code. 
+We have created a [free online text-based Code Editor](https://editor.raspberrypi.org/en/){:target="_blank"} to help young people aged 7 and over learn to write code. 
 
 --- collapse ---
 ---
 title: Code Editor features
 ---
-+ It lets you run Python or HTML/CSS code straight in the browser, with no setup required.
-+ It makes getting started with text-based coding easier thanks to its simple and intuitive interface.
-+ If you’re logged into your Raspberry Pi Foundation account, your code in the Editor is automatically saved.
-+ If you’re not logged in, your code changes persist for the session, so you can refresh or close the tab without losing your work.
-+ You can download your code to your computer.
-+ You can switch between dark and light mode.
-+ You can enlarge or reduce the text size in input and output, which is especially useful for people with visual impairments and for educators and volunteers who want to demonstrate something to a group of learners.
++ It lets you run Python or HTML/CSS code straight in your browser, with no setup required
++ It makes getting started with text-based coding easier thanks to its simple and intuitive interface
++ Your code is automatically saved when you're signed in to your Raspberry Pi Foundation account
++ If you’re not signed in, your code changes persist for the session, so you can refresh or close the tab without losing your work
++ You can download your code to your computer
++ You can switch between dark and light modes
++ You can enlarge or reduce the text size in input and output, which is especially useful for people with visual impairments and for educators and volunteers who want to demonstrate something to a group of learners
 --- /collapse ---
 

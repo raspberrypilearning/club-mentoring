@@ -17,11 +17,11 @@ Avoid giving a creator your own ideas. It might not be something they are intere
 
   --- /feedback ---
 
-- ( ) "You're a boy so you must like football. Make a football themed project"
+- ( ) "You're a boy so you must like football. Make a football themed project."
 
 
   --- feedback ---
-Avoid making assumptions about what a young person is interested in based on their gender, appearance or other traits. It’s important to encourage creator's own ideas. You may need to act as a catalyst to help draw those ideas out. You can suggest broad topics like "Food" or "Activities" and let them brainstorm topics related to things they are interested in.
+Avoid making assumptions about what a young person is interested in based on their gender, appearance, or other traits. It’s important to encourage a creator's own ideas and you may need to help draw those ideas out. You can suggest broad topics like "Food" or "Activities" and let them brainstorm topics related to things they are interested in.
 
   --- /feedback ---
 

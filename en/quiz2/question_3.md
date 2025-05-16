@@ -12,14 +12,14 @@ There are ten minutes left in the Code Club session. All of the creators are get
 - ( ) Tell him to present to the noisy group.
 
   --- feedback ---
-This is likely to make the young person feel uncomfortable; that what he has done isn’t worth people's attention. They will likely be reluctant to share their project again.
+This is likely to make the young person feel uncomfortable and that what he has done isn’t worth people's attention. They will likely be reluctant to share their project again.
   --- /feedback ---
 
 - ( ) Wrap up the session early, and announce you are finishing early because they were chatting.
 
   --- feedback ---
 
-Code Clubs are informal, fun, and collaborative spaces. Young people chatting and getting excited about what they are doing should be seen as a positive, while also encouraging them to be respectful of others. Instead, you should try and encourage those who are louder to get involved in the show and tell.
+Code Clubs are informal, fun, and collaborative spaces. Young people chatting and getting excited about what they are doing should be seen as a positive, but it's also important to encourage them to be respectful of others. Instead, you should try and encourage those who are louder to get involved in the show and tell.
 
 
   --- /feedback ---
@@ -34,7 +34,7 @@ When getting young people's attention by announcing that show and tell is starti
 
   --- /feedback ---
 
-- ( ) Present on behalf of the creator
+- ( ) Present on behalf of the creator.
 
   --- feedback ---
 This is likely to make the creator feel like he can’t present himself and undermine his confidence. Instead, focus on getting the attention of the group so the space is quiet enough for creators to present.

@@ -31,7 +31,7 @@ Instead, use this as an opportunity to show the creator how to use a search engi
 
   --- feedback ---
 
-This can be disheartening for a creator who has been working through a project. Instead, you could ask the Ninja to look for a similar project on our projects website to see if it includes a similar feature that they could use to resolve their issue.
+This can be disheartening for a creator who has been working through a project. Instead, you could ask them to look for a similar project on our projects website to see if it includes a similar feature that they could use to resolve their issue.
 
 
 

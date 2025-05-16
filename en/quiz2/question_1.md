@@ -19,18 +19,18 @@ What learning resources should mentors use in a Code Club setting?
 
   --- feedback ---
 
-Code Clubs are hardware and software agnostic. That means young people and volunteers can use whatever resources, tools and programming languages that suit their needs. We recommend using freely available resources.
+Code Clubs are hardware and software agnostic. That means young people and volunteers can use whatever resources, tools, and programming languages suit their needs. We recommend using freely available resources.
 
   --- /feedback ---
 
 - ( )Only resources that they have created themselves.
 
   --- feedback ---
-Some mentors like creating resources to use in their Code Club sessions. However there is no onus on mentors to do this. There are lots of freely available resources online, including on our website such as unplugged activities, our Code Editor and guided projects.  
+Some mentors like creating resources to use in their Code Club sessions. However, mentors don't have to do this. There are lots of freely available resources online, including on our website. For example, we provide unplugged activities, our Code Editor, and guided projects, all for free.  
 
   --- /feedback ---
 
-- ( ) They should only use the step-by-step projects on the Code Club Projects website.
+- ( ) They should only use the step-by-step projects on the Code Club projects website.
 
   --- feedback ---
 There are hundreds of free digital making projects available on our website. Some of them have been translated into 30 languages. However, while everyone is free to use these projects, you can also use other resources that suit your needs.
@@ -43,7 +43,7 @@ There are hundreds of free digital making projects available on our website. Som
 
   --- feedback ---
 
-We recommend you avoid using paid for resources and tools. There are lots of freely available resources online, including on our website such as unplugged activities, our Code Editor and guided projects.  
+We recommend you avoid using paid-for resources and tools. There are lots of freely available resources online, including those on our website. For example, we provide unplugged activities, our Code Editor, and guided projects, all for free.    
 
   --- /feedback ---
 

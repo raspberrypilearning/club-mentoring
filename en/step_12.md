@@ -10,7 +10,15 @@ It's important that you have a great experience volunteering with Code Club. It 
 + Ideas for adaptations that could be beneficial to mentors and the wider club are discussed and acted on 
 
 ### Developing skills
-People's motivations can change and develop over time. Communicating regularly with the club leader ensures they can better support your needs and growth. When you identify a skill you want to develop, you can ask the club leader for more responsibility in that area. 
+People's motivations can change and develop over time. Communicating regularly with the club leader ensures they can better support your needs and growth. When you identify a skill you want to develop, you can ask the club leader for more responsibility in that area. For example, you could: 
+- Lead a session on a topic you know
+- Create the next Code Club event on the ticketing system
+
+Mentors can also participate in Code Club training, either individually or as part of a group.
+
+--- task--- Talk to the club leader about why you want to mentor, and what you hope to gain from the experience. How can the activities of the club and your role as a mentor help you achieve your goals?
+
+--- /task ---
 
 --- task--- 
 **Write down** what you hope to gain from the experience. How can the activities of the club and your role as a mentor help you achieve your goals?

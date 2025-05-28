@@ -21,7 +21,6 @@ steps:
 - title: Learning resources
 - title: Common programming languages
 - title: Celebrate and showcase
-- title: Resources for mentors
 - title: Reflection quiz
   knowledge_quiz:
     path: quiz2
@@ -30,4 +29,5 @@ steps:
     passing_score: 3
   completion:
     - external
+- title: Resources for mentors
 - title: What next?

@@ -20,7 +20,7 @@ A young girl tells you during a session *“I’m useless at this. I think I wil
 
   --- feedback ---
 
-If a creator is getting frustrated, it’s important to support them and re-energise them. Don’t take over the mouse and keyboard as this is likely to discourage them further.
+If a creator is getting frustrated, it’s important to support them and re-energise them. Avoid comments that could make them feel less capable and don't take over the mouse and keyboard as this is likely to discourage them further.
 
   --- /feedback ---
 

@@ -17,7 +17,7 @@ Bookmark this page of useful resources. It has everything you'll need as a mento
 + [Our Code Editor](https://editor.raspberrypi.org/en/){:target="_blank"} lets you write and run Python and HTML/CSS code in a browser
 
 ### Useful guides
-+ [Facilitator guide to using our paths](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide/0){:target="_blank"}
++ [Mentor guide to using our paths](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide/0){:target="_blank"}
 + [Guide about culturally responsive teaching](https://www.raspberrypi.org/blog/culturally-relevant-computing-curriculum-guidelines-for-teachers/){:target="_blank"}
 
 

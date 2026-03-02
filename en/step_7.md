@@ -104,7 +104,7 @@ The end of each project offers inspiration for young people, by giving them idea
 --- /collapse ---
  
 
-You can learn more about our paths and their features with [our facilitator guide](https://projects.raspberrypi.org/en/projects/321-make-facilitator-guide){:target="_blank"}.
+You can learn more about our paths and their features with [our mentor guide](https://projects.raspberrypi.org/en/projects/321-make-mentor-guide/0){:target="_blank"}.
 
 </div>
 </div>

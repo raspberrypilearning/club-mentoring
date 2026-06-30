@@ -22,4 +22,4 @@ Bookmark this page of useful resources. It has everything you'll need as a mento
 
 
 ### Raspberry Pi Foundation training
-+ [Full list of our online training courses](https://www.raspberrypi.org/courses/learn-python){:target="_blank"}
++ [Full list of our online training courses](https://training-hub.raspberrypi.org/en/courses){:target="_blank"}

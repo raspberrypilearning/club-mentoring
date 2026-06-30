@@ -19,4 +19,4 @@ People's motivations can change and develop over time. Communicating regularly w
 --- /task--- 
 
 ### Additional training
-Our [online computing courses](https://www.raspberrypi.org/courses/learn-python) are free and have something for everyone. Learn about Python, Scratch, AI and machine learning, web development, cybersecurity, encryption, networking, computing education, and much more. All our courses give you full access to the learning materials for the course duration specified.
+Our [online computing courses](https://training-hub.raspberrypi.org/en/courses) are free and have something for everyone. Learn about Python, Scratch, AI and machine learning, web development, cybersecurity, encryption, networking, computing education, and much more. All our courses give you full access to the learning materials for the course duration specified.
